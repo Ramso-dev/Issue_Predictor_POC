@@ -1,0 +1,1525 @@
+issueid,openingtime,duration,resolution,severity,priority,component,os,updates,devs,cluster,0,1,2,3
+702939,1321415615,4230019.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+703031,1321441536,5415735.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,nobody@mozilla.org,0,1,0,0,0
+703122,1321453941,95811.0,FIXED,normal,P1,Developer Tools,All,0,past@mozilla.com,0,1,0,0,0
+703123,1321454017,486208.0,FIXED,normal,P1,Developer Tools: Console,All,0,sonny.piers@gmail.com,0,1,0,0,0
+703174,1321466819,116243.0,FIXED,normal,P1,Bookmarks & History,All,0,cam@mcc.id.au,0,1,0,0,0
+703235,1321496870,1103980.0,FIXED,normal,P1,Developer Tools: Console,All,0,sonny.piers@gmail.com,0,1,0,0,0
+703237,1321497347,356958.0,FIXED,normal,P1,Developer Tools,All,0,nobody@mozilla.org,0,1,0,0,0
+703268,1321511502,70265.0,FIXED,normal,P1,Developer Tools,All,0,past@mozilla.com,0,1,0,0,0
+703546,1321583716,2525563.0,FIXED,normal,P1,General,All,0,chris@pearce.org.nz,0,1,0,0,0
+703575,1321594189,15366.0,FIXED,normal,P1,Developer Tools,All,0,past@mozilla.com,0,1,0,0,0
+703643,1321607646,9945975.0,FIXED,normal,P2,Developer Tools: Inspector,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+703663,1321610880,260310.0,FIXED,normal,P1,Developer Tools: Debugger,Windows 7,0,past@mozilla.com,0,1,0,0,0
+703667,1321611201,2213467.0,FIXED,normal,P1,Developer Tools: Debugger,Windows 7,0,past@mozilla.com,0,1,0,0,0
+703670,1321611686,259545.0,FIXED,normal,P1,Developer Tools: Debugger,Mac OS X,0,past@mozilla.com,0,1,0,0,0
+703692,1321614392,7240788.0,FIXED,normal,P3,Developer Tools,All,0,livathinos.spyros@gmail.com,0,1,0,0,0
+703718,1321616483,7652460.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,dcamp@mozilla.com,0,1,0,0,0
+703938,1321722210,878675.0,FIXED,normal,P1,Developer Tools: Console,All,0,sonny.piers@gmail.com,0,1,0,0,0
+704011,1321791722,107113.0,FIXED,normal,P1,General,All,0,chris@pearce.org.nz,0,1,0,0,0
+704017,1321798099,4879190.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,paul@mozilla.com,0,1,0,0,0
+704181,1321863831,5888414.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+704182,1321863993,4339332.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+704184,1321864216,4339138.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+704204,1321868050,23839370.0,FIXED,normal,P3,Developer Tools: Console,All,0,jfong@mozilla.com,0,1,0,0,0
+704223,1321870405,9683181.0,FIXED,normal,P2,Developer Tools: Inspector,Mac OS X,0,bwinton@mozilla.com,0,1,0,0,0
+704228,1321871263,729449.0,FIXED,normal,P1,Developer Tools: Inspector,Mac OS X,0,paul@mozilla.com,1,0,1,0,0
+704295,1321880564,1960119.0,FIXED,normal,P1,Developer Tools: Console,All,0,brijesh3105@gmail.com,0,1,0,0,0
+704354,1321889466,7926762.0,FIXED,normal,P1,Tabbed Browser,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+704576,1321960740,2050211.0,FIXED,normal,P1,Build Config,All,0,bmo@edmorley.co.uk,0,1,0,0,0
+704789,1322015300,1360942.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+704832,1322030984,1345290.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+704838,1322031333,1344969.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+704913,1322044177,1331755.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+704918,1322044650,5683505.0,FIXED,normal,P2,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+705000,1322058985,5669133.0,FIXED,normal,P1,Tabbed Browser,All,1,ttaubert@mozilla.com,1,0,1,0,0
+705001,1322059125,9547335.0,FIXED,normal,P1,Tabbed Browser,All,1,ttaubert@mozilla.com,1,0,1,0,0
+705043,1322078570,1467137.0,FIXED,normal,P1,Bookmarks & History,All,0,thomas@prip.nu,3,0,0,0,1
+705074,1322098592,1277420.0,FIXED,normal,P1,Developer Tools,All,0,jwalker@mozilla.com,0,1,0,0,0
+705100,1322103999,688965.0,FIXED,trivial,P1,Migration,All,0,mnoorenberghe+bmo@mozilla.com,0,1,0,0,0
+705276,1322200189,9353461.0,FIXED,normal,P2,Developer Tools: Inspector,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+705323,1322210892,25657816.0,FIXED,normal,P2,Developer Tools: Inspector,Windows 7,0,rcampbell@mozilla.com,0,1,0,0,0
+705422,1322282424,6203535.0,FIXED,normal,P1,Preferences,All,0,cers@geeksbynature.dk,3,0,0,0,1
+705464,1322300670,1075535.0,FIXED,normal,P1,Developer Tools,All,0,jwalker@mozilla.com,0,1,0,0,0
+705597,1322422901,1244658.0,FIXED,normal,P1,Session Restore,All,0,ttaubert@mozilla.com,0,1,0,0,0
+705621,1322440069,159855.0,FIXED,normal,P1,Panorama,All,0,raymond@appcoast.com,1,0,1,0,0
+705707,1322466811,7028211.0,FIXED,normal,P2,Developer Tools: Inspector,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+705731,1322468169,806540.0,FIXED,normal,P1,Developer Tools: Inspector,Mac OS X,0,rcampbell@mozilla.com,0,1,0,0,0
+705903,1322488769,112151.0,FIXED,normal,P1,Developer Tools: Console,All,0,fayearthur@gmail.com,0,1,0,0,0
+705911,1322490648,10025662.0,FIXED,normal,P4,Tabbed Browser,All,0,ttaubert@mozilla.com,3,0,0,0,1
+705997,1322519003,169162.0,FIXED,normal,P1,Installer,All,0,robert.bugzilla@gmail.com,0,1,0,0,0
+706049,1322532133,291917.0,FIXED,critical,P1,Phishing Protection,Windows XP,0,gpascutto@mozilla.com,2,0,0,1,0
+706092,1322544134,21452548.0,FIXED,normal,P4,Developer Tools: Inspector,Mac OS X,0,rcampbell@mozilla.com,0,1,0,0,0
+706230,1322567497,3852090.0,FIXED,normal,P2,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+706506,1322638732,6473683.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+706734,1322673633,452428.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,paul@mozilla.com,0,1,0,0,0
+706736,1322673965,127955.0,FIXED,normal,P1,Panorama,All,0,raymond@appcoast.com,1,0,1,0,0
+706740,1322679492,144508.0,FIXED,normal,P1,Phishing Protection,Windows XP,0,gpascutto@mozilla.com,3,0,0,0,1
+706746,1322682981,109710.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,cam@mcc.id.au,0,1,0,0,0
+706850,1322726827,7405715.0,FIXED,normal,P1,Bookmarks & History,All,0,cers@geeksbynature.dk,0,1,0,0,0
+706859,1322728270,3449596.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+707020,1322751625,3110245.0,FIXED,normal,P1,General,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+707131,1322796835,5813593.0,FIXED,normal,P4,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+707180,1322809675,316475.0,FIXED,trivial,P1,Session Restore,All,0,tobbi.bugs@googlemail.com,0,1,0,0,0
+707302,1322829343,28442308.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+707342,1322835746,5774582.0,FIXED,normal,P2,Developer Tools: Console,Windows XP,0,jwalker@mozilla.com,0,1,0,0,0
+707466,1322915514,460122.0,FIXED,normal,P1,Panorama,All,1,raymond@appcoast.com,1,0,1,0,0
+707492,1322963281,25146324.0,FIXED,normal,P2,Developer Tools: Console,All,0,jwalker@mozilla.com,2,0,0,1,0
+707567,1323004516,3113639.0,FIXED,normal,P1,Location Bar,All,0,dao@mozilla.com,0,1,0,0,0
+707604,1323033725,9948785.0,FIXED,normal,P1,Panorama,All,0,ttaubert@mozilla.com,0,1,0,0,0
+707650,1323060614,3923973.0,FIXED,normal,P1,Developer Tools: Console,All,0,tobbi.bugs@googlemail.com,0,1,0,0,0
+707740,1323076406,7225694.0,FIXED,normal,P2,Developer Tools: Inspector,All,0,fayearthur@gmail.com,3,0,0,0,1
+707809,1323087082,11792887.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,dcamp@mozilla.com,0,1,0,0,0
+707814,1323087898,1672528.0,FIXED,normal,P1,Location Bar,Mac OS X,0,paul@oshannessy.com,0,1,0,0,0
+707940,1323154749,7495711.0,FIXED,normal,P2,Developer Tools: Inspector,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+707987,1323163816,6736523.0,FIXED,normal,P2,Developer Tools,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+708071,1323173698,83476.0,FIXED,normal,P1,Menus,All,0,dao@design-noir.de,0,1,0,0,0
+708107,1323180170,517762.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,cam@mcc.id.au,0,1,0,0,0
+708360,1323256711,43941.0,FIXED,normal,P1,General,Windows 7,0,trev.moz@adblockplus.org,0,1,0,0,0
+708797,1323344980,873913.0,FIXED,normal,P1,Theme,Windows XP,0,soapyhamhocks@gmail.com,0,1,0,0,0
+709005,1323397759,443486.0,FIXED,normal,P1,General,All,0,paul@oshannessy.com,0,1,0,0,0
+709006,1323398155,1137836.0,FIXED,normal,P1,Developer Tools,All,0,pafelka@gmail.com,0,1,0,0,0
+709088,1323413729,7772048.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+709113,1323417950,540791.0,FIXED,normal,P1,Build Config,All,0,l10n@mozilla.com,2,0,0,1,0
+709182,1323422751,5938245.0,FIXED,normal,P1,Tabbed Browser,All,0,jwein@mozilla.com,1,0,1,0,0
+709193,1323424132,535022.0,FIXED,critical,P1,Build Config,Windows Server 2003,0,khuey@kylehuey.com,0,1,0,0,0
+709223,1323426109,5184246.0,FIXED,normal,P2,Developer Tools,All,0,jwalker@mozilla.com,0,1,0,0,0
+709265,1323433206,577728.0,FIXED,normal,P1,Migration,All,0,bmo@edmorley.co.uk,0,1,0,0,0
+709460,1323480424,15042803.0,FIXED,normal,P2,Developer Tools: Console,All,0,vporof@mozilla.com,0,1,0,0,0
+709578,1323582855,1484139.0,FIXED,trivial,P1,Theme,All,0,jasonyeo88@gmail.com,0,1,0,0,0
+709589,1323587595,6464309.0,FIXED,normal,P1,Search,All,1,kairo@kairo.at,0,1,0,0,0
+709748,1323658253,2545262.0,FIXED,critical,P1,Developer Tools: Console,Windows 7,1,jwalker@mozilla.com,2,0,0,1,0
+709756,1323661465,25099788.0,FIXED,normal,P4,Developer Tools: Inspector,Linux,1,leonard.camacho@gmail.com,0,1,0,0,0
+710152,1323738858,2464545.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+710159,1323739628,18668797.0,FIXED,normal,P3,Developer Tools: Console,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+710258,1323764872,16468718.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+710259,1323764955,10692493.0,FIXED,normal,P1,Migration,All,0,mano@mozilla.com,0,1,0,0,0
+710262,1323765204,16728596.0,FIXED,normal,P4,Migration,All,0,mano@mozilla.com,0,1,0,0,0
+710264,1323765465,9140093.0,FIXED,normal,P1,Migration,Mac OS X,0,mano@mozilla.com,0,1,0,0,0
+710341,1323775119,51790.0,FIXED,trivial,P1,Theme,Windows 7,0,soapyhamhocks@gmail.com,0,1,0,0,0
+710431,1323785310,8513096.0,FIXED,normal,P1,General,All,0,enndeakin@gmail.com,0,1,0,0,0
+710550,1323812226,26530989.0,FIXED,normal,P4,Installer,Windows 7,0,netzen@gmail.com,2,0,0,1,0
+710895,1323870013,10878190.0,FIXED,normal,P4,Migration,All,0,mak77@bonardo.net,0,1,0,0,0
+710972,1323899318,2293215.0,FIXED,normal,P1,Shell Integration,Linux,0,mh+mozilla@glandium.org,0,1,0,0,0
+710975,1323899578,2100548.0,FIXED,normal,P1,Migration,Windows 7,0,jwein@mozilla.com,0,1,0,0,0
+711157,1323941555,7921322.0,FIXED,normal,P1,General,All,1,fryn@frankyan.com,0,1,0,0,0
+711164,1323942202,8268301.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+711193,1323944736,6413749.0,FIXED,normal,P1,Session Restore,All,1,paolo.mozmail@amadzone.org,1,0,1,0,0
+711341,1323990848,474222.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+711368,1324002069,2417540.0,FIXED,normal,P2,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+711554,1324031215,1036084.0,FIXED,normal,P1,Search,Linux,0,respindola@mozilla.com,0,1,0,0,0
+711851,1324201677,946320.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+711914,1324246878,2166313.0,FIXED,normal,P1,Bookmarks & History,Windows Vista,0,mak77@bonardo.net,0,1,0,0,0
+711966,1324272493,2498260.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+712029,1324282808,2845028.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+712096,1324294246,2833646.0,FIXED,normal,P1,Developer Tools,All,0,vporof@mozilla.com,3,0,0,0,1
+712113,1324296406,851367.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,rcampbell@mozilla.com,0,1,0,0,0
+712203,1324317034,8775818.0,FIXED,minor,P1,Panorama,All,0,raymond@appcoast.com,1,0,1,0,0
+712223,1324332517,3636867.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,paul@mozilla.com,0,1,0,0,0
+712286,1324358502,789409.0,FIXED,normal,P1,Developer Tools,All,0,vporof@mozilla.com,0,1,0,0,0
+712469,1324390979,18184432.0,FIXED,normal,P2,Developer Tools: Inspector,Mac OS X,0,fayearthur@gmail.com,0,1,0,0,0
+712472,1324391590,1174414.0,FIXED,normal,P1,Developer Tools: Inspector,Linux,0,vporof@mozilla.com,0,1,0,0,0
+712859,1324492728,16692744.0,FIXED,normal,P3,Developer Tools: Console,All,1,mgoodwin@mozilla.com,0,1,0,0,0
+712867,1324498875,2178350.0,FIXED,normal,P1,Developer Tools: Scratchpad,Windows 7,0,paul@mozilla.com,0,1,0,0,0
+712868,1324499306,2271478.0,FIXED,normal,P1,Developer Tools: Inspector,Windows 7,1,vporof@mozilla.com,0,1,0,0,0
+712887,1324513147,634799.0,FIXED,minor,P1,Developer Tools: Style Editor,All,0,nobody@mozilla.org,0,1,0,0,0
+712982,1324540610,5359920.0,FIXED,normal,P3,Developer Tools: Scratchpad,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+713052,1324551273,6114738.0,FIXED,normal,P1,Keyboard Navigation,All,0,johan.charlez@gmail.com,0,1,0,0,0
+713172,1324579562,1782835.0,FIXED,normal,P1,General,Windows 7,1,josh@joshmatthews.net,0,1,0,0,0
+713260,1324632157,2138543.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+713287,1324641608,484323.0,FIXED,normal,P1,Tabbed Browser,All,0,dao@mozilla.com,1,0,1,0,0
+713359,1324699726,1977682.0,FIXED,normal,P2,Developer Tools: Style Editor,All,0,cedricv@neonux.com,0,1,0,0,0
+713360,1324699974,866061.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+713391,1324719578,2408233.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+713504,1324854213,64541.0,FIXED,normal,P1,Build Config,All,0,philringnalda@gmail.com,0,1,0,0,0
+713612,1324940229,2538450.0,FIXED,normal,P2,Developer Tools: Style Editor,All,0,cedricv@neonux.com,0,1,0,0,0
+713676,1324976444,2061676.0,FIXED,normal,P2,Developer Tools: Inspector,All,0,paul@mozilla.com,0,1,0,0,0
+713822,1325031991,829448.0,FIXED,trivial,P1,Theme,All,0,thomas@prip.nu,0,1,0,0,0
+713828,1325035279,322039.0,FIXED,normal,P1,Theme,All,0,mrshux@gmail.com,0,1,0,0,0
+713835,1325040014,608475.0,FIXED,trivial,P1,Developer Tools: Style Editor,Linux,0,dao@mozilla.com,0,1,0,0,0
+714027,1325118552,1558710.0,FIXED,normal,P1,Developer Tools: Inspector,Windows 7,0,mratcliffe@mozilla.com,0,1,0,0,0
+714068,1325141460,1160367.0,FIXED,normal,P1,Shell Integration,Linux,1,jagw40k@free.fr,2,0,0,1,0
+714083,1325146763,1272986.0,FIXED,normal,P1,General,All,0,paul@oshannessy.com,0,1,0,0,0
+714140,1325156259,2159641.0,FIXED,normal,P1,General,Windows 7,0,dolske@mozilla.com,0,1,0,0,0
+714172,1325163132,11893214.0,FIXED,normal,P4,General,Mac OS X,0,paul@oshannessy.com,0,1,0,0,0
+714272,1325223890,1628150.0,FIXED,normal,P1,Preferences,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+714281,1325227193,496861.0,FIXED,normal,P1,Tabbed Browser,All,0,dao@mozilla.com,1,0,1,0,0
+714342,1325244039,2071703.0,FIXED,trivial,P1,Location Bar,All,0,murali.sr92@yahoo.com,0,1,0,0,0
+714509,1325391722,155162.0,FIXED,normal,P1,Extension Compatibility,Linux,1,cyberscorpio@gmail.com,0,1,0,0,0
+714594,1325466241,1911809.0,FIXED,normal,P1,Tabbed Browser,All,0,dao@mozilla.com,1,0,1,0,0
+714832,1325578918,14232142.0,FIXED,normal,P3,Developer Tools,Linux,0,thaddee.tyl@gmail.com,0,1,0,0,0
+714951,1325595495,1781973.0,FIXED,normal,P1,Build Config,Mac OS X,0,smichaud@pobox.com,0,1,0,0,0
+715123,1325656173,1822663.0,FIXED,normal,P1,Developer Tools: Style Editor,All,0,paul@mozilla.com,0,1,0,0,0
+715163,1325664214,1868068.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+715291,1325677000,1307328.0,FIXED,normal,P1,Developer Tools: Style Editor,All,0,cedricv@neonux.com,0,1,0,0,0
+715402,1325694793,25375594.0,FIXED,normal,P4,General,All,1,dao@mozilla.com,0,1,0,0,0
+715454,1325725943,6615717.0,FIXED,normal,P1,Panorama,All,0,marioalv.mozilla@gmail.com,1,0,1,0,0
+715501,1325746136,673497.0,FIXED,normal,P2,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+715518,1325747884,1379984.0,FIXED,normal,P1,Developer Tools,Linux,0,vporof@mozilla.com,0,1,0,0,0
+715543,1325751757,403045.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+715582,1325758480,103372.0,FIXED,normal,P1,Private Browsing,Linux,0,respindola@mozilla.com,0,1,0,0,0
+715647,1325766306,1765896.0,FIXED,normal,P1,Developer Tools: Inspector,Mac OS X,0,vporof@mozilla.com,0,1,0,0,0
+715887,1325830156,847193.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+715892,1325830576,1648221.0,FIXED,normal,P1,Developer Tools: Style Editor,All,1,cedricv@neonux.com,0,1,0,0,0
+715970,1325844699,3267800.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+716080,1325855986,4526950.0,FIXED,normal,P1,Session Restore,All,0,piers@eightytwo.com.au,1,0,1,0,0
+716108,1325859456,17310324.0,FIXED,normal,P4,Tabbed Browser,All,2,ttaubert@mozilla.com,1,0,1,0,0
+716334,1325982747,5102216.0,FIXED,normal,P1,General,All,0,dao@mozilla.com,0,1,0,0,0
+716397,1326017949,1011040.0,FIXED,normal,P1,Build Config,Linux,0,jon@jbuckley.ca,0,1,0,0,0
+716424,1326036931,264951.0,FIXED,normal,P1,Shell Integration,Linux,0,karlt@mozbugz.karlt.net,0,1,0,0,0
+716495,1326078460,17822870.0,FIXED,normal,P2,Developer Tools: Scratchpad,All,1,enzomatrix@gmail.com,0,1,0,0,0
+716532,1326087938,8025311.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,1,0,1,0,0
+716880,1326175415,6301211.0,FIXED,normal,P1,Panorama,Mac OS X,0,marioalv.mozilla@gmail.com,1,0,1,0,0
+717110,1326211942,1516087.0,FIXED,normal,P1,Tabbed Browser,All,1,ttaubert@mozilla.com,3,0,0,0,1
+717219,1326257777,3642702.0,FIXED,normal,P1,Developer Tools,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+717258,1326268408,408971.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+717373,1326283621,2460356.0,FIXED,normal,P1,Developer Tools,All,0,rcampbell@mozilla.com,0,1,0,0,0
+717425,1326288987,1438759.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+717491,1326303511,663367.0,FIXED,normal,P1,Build Config,All,1,ewong@pw-wspx.org,0,1,0,0,0
+717613,1326350955,3549622.0,FIXED,normal,P1,Developer Tools,Linux,0,mihai.sucan@gmail.com,0,1,0,0,0
+717622,1326353340,1398258.0,FIXED,normal,P2,Developer Tools: Console,Mac OS X,0,jwalker@mozilla.com,0,1,0,0,0
+717631,1326354446,3556005.0,FIXED,normal,P1,Developer Tools: Scratchpad,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+717772,1326376414,590785.0,FIXED,normal,P1,Location Bar,All,0,mak77@bonardo.net,0,1,0,0,0
+717916,1326433740,7878544.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,paul@mozilla.com,0,1,0,0,0
+717922,1326434736,8445209.0,FIXED,normal,P3,Developer Tools: Inspector,All,0,paul@mozilla.com,0,1,0,0,0
+717923,1326434847,5118696.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+717924,1326434997,3866902.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,paul@mozilla.com,3,0,0,0,1
+717963,1326442703,3871945.0,FIXED,minor,P1,General,All,0,markcapella@twcny.rr.com,2,0,0,1,0
+718088,1326464267,25758343.0,FIXED,normal,P4,General,All,3,gavin.sharp@gmail.com,0,1,0,0,0
+718228,1326546413,273021.0,FIXED,normal,P1,Tabbed Browser,Windows 7,0,dao@mozilla.com,1,0,1,0,0
+718281,1326602900,525022.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+718303,1326615109,917121.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,3,0,0,0,1
+718324,1326627445,2512254.0,FIXED,normal,P1,Build Config,Linux,0,sgautherie.bz@free.fr,0,1,0,0,0
+718425,1326694266,837988.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+718431,1326696697,1031187.0,FIXED,normal,P2,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+718484,1326710441,411330.0,FIXED,normal,P1,Private Browsing,All,0,paolo.mozmail@amadzone.org,0,1,0,0,0
+718608,1326771066,5557888.0,FIXED,normal,P1,Migration,All,0,mano@mozilla.com,0,1,0,0,0
+718973,1326853749,874481.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+719021,1326865979,761687.0,FIXED,normal,P1,Developer Tools: Style Editor,Linux,0,cedricv@neonux.com,0,1,0,0,0
+719022,1326866186,683990.0,FIXED,normal,P2,Developer Tools: Style Editor,Linux,1,paul@mozilla.com,0,1,0,0,0
+719028,1326867109,611478.0,FIXED,normal,P3,Developer Tools,All,0,alex.lakatos@softvision.ro,0,1,0,0,0
+719035,1326868240,14536734.0,FIXED,normal,P4,Tabbed Browser,All,0,andres@appcoast.com,1,0,1,0,0
+719039,1326868865,1100587.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+719042,1326869796,3430993.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+719049,1326870546,857709.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+719127,1326876846,2392071.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,dcamp@mozilla.com,0,1,0,0,0
+719254,1326896660,485265.0,FIXED,normal,P1,General,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+719292,1326903580,824235.0,FIXED,normal,P2,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+719453,1326958737,6058098.0,FIXED,normal,P3,Developer Tools,All,0,prp.1111@gmail.com,0,1,0,0,0
+719457,1326959456,519412.0,FIXED,normal,P1,Developer Tools: Style Editor,Mac OS X,0,paul@mozilla.com,0,1,0,0,0
+719538,1326971112,155188.0,FIXED,normal,P1,Shell Integration,Windows 7,0,gavin.sharp@gmail.com,0,1,0,0,0
+719552,1326973126,12250677.0,FIXED,normal,P1,Developer Tools: Style Editor,All,0,cedricv@neonux.com,0,1,0,0,0
+719675,1326992293,4614199.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,1,0,1,0,0
+719731,1327017238,711046.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+719732,1327017313,710994.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+719783,1327038346,440419.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+719850,1327045455,465869.0,FIXED,normal,P1,Menus,All,0,rogerio.rag@gmail.com,1,0,1,0,0
+719877,1327050278,2062167.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+719916,1327054860,4190705.0,FIXED,normal,P1,Developer Tools: Inspector,Other,0,dcamp@mozilla.com,0,1,0,0,0
+719933,1327056903,421821.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+720023,1327069296,4874861.0,FIXED,normal,P1,Menus,All,0,cfree731@gmail.com,0,1,0,0,0
+720081,1327096373,11635054.0,FIXED,normal,P4,Location Bar,All,1,mak77@bonardo.net,0,1,0,0,0
+720110,1327111557,361232.0,FIXED,normal,P1,Location Bar,All,0,mak77@bonardo.net,0,1,0,0,0
+720258,1327239916,2258142.0,FIXED,normal,P1,Location Bar,All,0,mak77@bonardo.net,0,1,0,0,0
+720291,1327256599,712920.0,FIXED,normal,P1,Developer Tools: Style Editor,All,0,cedricv@neonux.com,0,1,0,0,0
+720310,1327274933,125342.0,FIXED,normal,P1,Menus,All,0,smontagu@smontagu.org,0,1,0,0,0
+720431,1327312773,166133.0,FIXED,normal,P2,Developer Tools: Style Editor,Mac OS X,0,cedricv@neonux.com,0,1,0,0,0
+720468,1327317348,652070.0,FIXED,normal,P1,Developer Tools: Style Editor,All,0,paul@mozilla.com,0,1,0,0,0
+720641,1327367630,9360749.0,FIXED,normal,P1,Developer Tools: Console,All,1,jwalker@mozilla.com,0,1,0,0,0
+720644,1327367928,8319645.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+720659,1327373561,4244770.0,FIXED,normal,P1,Location Bar,All,0,masayuki@d-toybox.com,0,1,0,0,0
+720702,1327387887,8299709.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+720837,1327410581,495901.0,FIXED,normal,P1,Build Config,All,0,gavin.sharp@gmail.com,2,0,0,1,0
+720838,1327410809,1444264.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,3,0,0,0,1
+720962,1327452437,96485.0,FIXED,normal,P1,Migration,Linux,0,m_kato@ga2.so-net.ne.jp,0,1,0,0,0
+720970,1327456186,8231425.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+720971,1327456550,8231451.0,FIXED,normal,P3,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+720972,1327456708,14083363.0,FIXED,normal,P4,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+720975,1327459356,168480.0,FIXED,normal,P1,Developer Tools: Style Editor,All,0,paul@mozilla.com,0,1,0,0,0
+720992,1327465706,2835150.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+721019,1327472496,846913.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,3,0,0,0,1
+721020,1327472648,8227864.0,FIXED,normal,P1,Tabbed Browser,All,0,raymond@appcoast.com,1,0,1,0,0
+721156,1327488553,5494183.0,FIXED,normal,P1,Developer Tools: Scratchpad,All,0,fayearthur@gmail.com,0,1,0,0,0
+721324,1327541775,1068318.0,FIXED,normal,P1,Developer Tools,All,0,vandhanaa91@gmail.com,0,1,0,0,0
+721389,1327559304,8549812.0,FIXED,normal,P1,Tabbed Browser,All,1,bellindira@appcoast.com,1,0,1,0,0
+721398,1327561539,5271.0,FIXED,normal,P1,General,All,0,nobody@mozilla.org,3,0,0,0,1
+721413,1327564456,163536.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,1,0,1,0,0
+721417,1327564735,1179162.0,FIXED,normal,P1,General,All,0,ttaubert@mozilla.com,0,1,0,0,0
+721422,1327565528,162167.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,3,0,0,0,1
+721442,1327569302,6795019.0,FIXED,normal,P1,Tabbed Browser,All,1,ttaubert@mozilla.com,3,0,0,0,1
+721535,1327584616,215671.0,FIXED,major,P2,Build Config,All,0,sgautherie.bz@free.fr,2,0,0,1,0
+721729,1327639024,971355.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,3,0,0,0,1
+722075,1327747933,241935.0,FIXED,normal,P1,General,All,0,dholbert@mozilla.com,0,1,0,0,0
+722079,1327750912,6529453.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,murali.sr92@yahoo.com,0,1,0,0,0
+722100,1327762561,557040.0,FIXED,normal,P1,Panorama,All,0,reuben.morais@gmail.com,0,1,0,0,0
+722129,1327792800,1319674.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+722176,1327830165,2092788.0,FIXED,normal,P1,Location Bar,All,0,mak77@bonardo.net,0,1,0,0,0
+722196,1327845706,3339673.0,FIXED,major,P1,Developer Tools: Inspector,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+722263,1327890121,3716114.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,1,0,1,0,0
+722273,1327893717,3351773.0,FIXED,normal,P1,Tabbed Browser,All,1,ttaubert@mozilla.com,1,0,1,0,0
+722305,1327902125,997399.0,FIXED,trivial,P1,General,All,0,pookveeraya@gmail.com,0,1,0,0,0
+722352,1327911658,776293.0,FIXED,normal,P1,Search,All,0,mnoorenberghe+bmo@mozilla.com,0,1,0,0,0
+722460,1327926156,1973588.0,FIXED,normal,P1,General,All,0,paul@oshannessy.com,0,1,0,0,0
+722479,1327928360,484798.0,FIXED,normal,P1,General,All,0,ttaubert@mozilla.com,0,1,0,0,0
+722663,1327981146,338292.0,FIXED,normal,P1,Panorama,All,0,teramako@gmail.com,1,0,1,0,0
+722666,1327982956,4519.0,FIXED,normal,P3,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+722672,1327984367,759569.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,0,1,0,0,0
+722681,1327987329,1466566.0,FIXED,normal,P1,Tabbed Browser,All,0,jwein@mozilla.com,1,0,1,0,0
+722685,1327988180,10661038.0,FIXED,normal,P2,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+722691,1327989467,25210567.0,FIXED,normal,P2,Developer Tools: Inspector,Mac OS X,0,mwein2009@gmail.com,0,1,0,0,0
+722976,1328041928,13361512.0,FIXED,normal,P2,Developer Tools: Console,All,0,chrislord.net@gmail.com,0,1,0,0,0
+722983,1328044646,22423082.0,FIXED,normal,P4,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+722984,1328044851,12878751.0,FIXED,normal,P4,General,All,0,saurabhanandiit@gmail.com,0,1,0,0,0
+722985,1328045054,24870517.0,FIXED,normal,P4,Session Restore,All,0,andres@appcoast.com,0,1,0,0,0
+722986,1328045190,6596520.0,FIXED,normal,P1,RSS Discovery and Preview,Mac OS X,0,hessamms@gmail.com,0,1,0,0,0
+722987,1328045440,23089796.0,FIXED,normal,P4,Bookmarks & History,Mac OS X,0,andres@appcoast.com,0,1,0,0,0
+722988,1328045981,12877712.0,FIXED,normal,P4,General,All,0,saurabhanandiit@gmail.com,0,1,0,0,0
+722990,1328046197,12198224.0,FIXED,normal,P4,Tabbed Browser,All,0,saurabhanandiit@gmail.com,0,1,0,0,0
+722993,1328046424,25467278.0,FIXED,normal,P4,Shell Integration,Windows 7,0,andres@appcoast.com,0,1,0,0,0
+723018,1328054743,558498.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,josh@joshmatthews.net,0,1,0,0,0
+723047,1328061705,2587719.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+723048,1328062044,2239585.0,FIXED,trivial,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+723057,1328065255,2324922.0,FIXED,minor,P1,Developer Tools: Scratchpad,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+723059,1328065344,9955439.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,paul@mozilla.com,0,1,0,0,0
+723062,1328065787,9954615.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+723069,1328069710,3115705.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+723071,1328069996,14339191.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+723102,1328076520,336558.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,1,0,1,0,0
+723121,1328079504,3106315.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,1,0,1,0,0
+723181,1328087947,231773.0,FIXED,normal,P1,General,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+723353,1328111032,4825147.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+723431,1328141531,7967887.0,FIXED,normal,P1,Developer Tools,All,1,jwalker@mozilla.com,0,1,0,0,0
+723435,1328143196,2157626.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+723563,1328170000,4922960.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+723588,1328172514,2128420.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+723737,1328192200,8349971.0,FIXED,normal,P1,Preferences,All,0,owenccarpenter@gmail.com,0,1,0,0,0
+723873,1328234560,620668.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,0,1,0,0,0
+723889,1328239236,7448409.0,FIXED,normal,P2,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+723937,1328250656,2050837.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+724055,1328265883,12295415.0,FIXED,normal,P4,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+724116,1328277109,1016038.0,FIXED,normal,P1,General,All,0,mnoorenberghe+bmo@mozilla.com,0,1,0,0,0
+724145,1328280332,332206.0,FIXED,normal,P1,General,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+724161,1328283235,1272224.0,FIXED,normal,P1,General,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+724228,1328322113,7787060.0,FIXED,normal,P1,Developer Tools: Debugger,All,1,past@mozilla.com,0,1,0,0,0
+724239,1328329499,13627261.0,FIXED,normal,P4,Tabbed Browser,All,1,ttaubert@mozilla.com,1,0,1,0,0
+724283,1328347018,181771.0,FIXED,blocker,P1,Installer,Windows XP,0,netzen@gmail.com,0,1,0,0,0
+724286,1328347982,137903.0,FIXED,normal,P1,General,All,0,dao@mozilla.com,0,1,0,0,0
+724346,1328402020,27416697.0,FIXED,normal,P4,Tabbed Browser,All,1,limweizhong@gmail.com,1,0,1,0,0
+724504,1328495599,3110941.0,FIXED,normal,P1,Theme,Linux,0,ttaubert@mozilla.com,3,0,0,0,1
+724509,1328497644,8231235.0,FIXED,normal,P2,Developer Tools: Inspector,All,0,paul@mozilla.com,0,1,0,0,0
+724539,1328506743,3099822.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,1,0,1,0,0
+724585,1328519010,11560294.0,FIXED,normal,P4,Developer Tools,Linux,0,thaddee.tyl@gmail.com,3,0,0,0,1
+724599,1328520502,4464191.0,FIXED,normal,P1,Location Bar,All,0,dao@mozilla.com,0,1,0,0,0
+724686,1328535031,8007111.0,FIXED,normal,P1,Preferences,All,0,jon.rietveld@gmail.com,0,1,0,0,0
+724778,1328560611,49601.0,FIXED,normal,P1,Developer Tools: Style Editor,All,0,paul@mozilla.com,2,0,0,1,0
+724808,1328574666,2259316.0,FIXED,normal,P1,Migration,All,0,mano@mozilla.com,2,0,0,1,0
+724819,1328581301,7106777.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+724821,1328581602,9854506.0,FIXED,normal,P1,Toolbars,All,0,raymond@appcoast.com,0,1,0,0,0
+724862,1328591633,9428809.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+725047,1328613478,2652935.0,FIXED,normal,P1,Bookmarks & History,Linux,0,mak77@bonardo.net,0,1,0,0,0
+725126,1328625054,1966534.0,FIXED,normal,P1,General,Mac OS X,0,armenzg@mozilla.com,0,1,0,0,0
+725200,1328641213,853890.0,FIXED,normal,P1,Location Bar,All,0,ttaubert@mozilla.com,1,0,1,0,0
+725249,1328665801,4921111.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+725360,1328685954,808922.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,1,0,1,0,0
+725388,1328691265,803796.0,FIXED,normal,P1,Developer Tools,All,0,livathinos.spyros@gmail.com,0,1,0,0,0
+725392,1328691704,24453158.0,FIXED,normal,P4,Developer Tools: Source Editor,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+725393,1328691925,2914658.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,1,0,1,0,0
+725405,1328694423,1607334.0,FIXED,normal,P1,Developer Tools: Scratchpad,All,0,livathinos.spyros@gmail.com,0,1,0,0,0
+725430,1328697881,3512596.0,FIXED,normal,P1,Developer Tools,All,0,prp.1111@gmail.com,0,1,0,0,0
+725597,1328749279,16267583.0,FIXED,critical,P4,Phishing Protection,Windows Vista,1,gpascutto@mozilla.com,0,1,0,0,0
+725611,1328756370,4229160.0,FIXED,normal,P1,Location Bar,Windows 7,0,dao@mozilla.com,0,1,0,0,0
+725618,1328761270,2424330.0,FIXED,normal,P1,Developer Tools,All,0,adeubank@gmail.com,0,1,0,0,0
+725717,1328778770,1522792.0,FIXED,normal,P1,Developer Tools: Console,All,0,vporof@mozilla.com,0,1,0,0,0
+725996,1328855083,2751112.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,1,0,1,0,0
+726002,1328857053,16159805.0,FIXED,normal,P4,Phishing Protection,All,1,gpascutto@mozilla.com,1,0,1,0,0
+726189,1328882764,9119698.0,FIXED,normal,P1,Search,All,0,raymond@appcoast.com,0,1,0,0,0
+726235,1328889239,3703575.0,FIXED,normal,P1,Session Restore,All,0,dietrich@mozilla.com,0,1,0,0,0
+726249,1328895995,22863448.0,FIXED,normal,P1,Developer Tools: Debugger,Mac OS X,0,past@mozilla.com,0,1,0,0,0
+726259,1328902328,827459.0,FIXED,trivial,P1,Theme,Windows 7,0,soapyhamhocks@gmail.com,0,1,0,0,0
+726272,1328916831,3027204.0,FIXED,minor,P1,General,All,0,ttaubert@mozilla.com,3,0,0,0,1
+726346,1328960181,510094.0,FIXED,normal,P1,Developer Tools,Linux,0,bugs@pettay.fi,0,1,0,0,0
+726347,1328960533,5319747.0,FIXED,normal,P1,General,All,0,ttaubert@mozilla.com,3,0,0,0,1
+726440,1329034213,1037732.0,FIXED,normal,P1,Bookmarks & History,All,0,mak77@bonardo.net,0,1,0,0,0
+726628,1329120255,2486345.0,FIXED,normal,P1,Tabbed Browser,Linux,0,ttaubert@mozilla.com,1,0,1,0,0
+726634,1329121518,1180000.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+726864,1329149096,155758.0,FIXED,normal,P1,Installer,All,0,gavin.sharp@gmail.com,2,0,0,1,0
+726949,1329182708,5762160.0,FIXED,normal,P1,Developer Tools: Console,All,0,bzbarsky@mit.edu,0,1,0,0,0
+726986,1329194733,9231714.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+727131,1329210219,94682.0,FIXED,normal,P1,Menus,All,0,gavin.sharp@gmail.com,1,0,1,0,0
+727244,1329224406,80541.0,FIXED,normal,P1,Tabbed Browser,All,0,gavin.sharp@gmail.com,1,0,1,0,0
+727370,1329254378,19609620.0,FIXED,major,P4,Phishing Protection,Windows 7,0,gpascutto@mozilla.com,0,1,0,0,0
+727429,1329284413,23915646.0,FIXED,normal,P4,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+727529,1329299787,1001816.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+727793,1329363852,89448.0,FIXED,normal,P1,General,All,0,dao@mozilla.com,0,1,0,0,0
+727826,1329373034,509435.0,FIXED,normal,P1,Bookmarks & History,All,0,saneyuki.s.snyk@gmail.com,0,1,0,0,0
+727867,1329378916,1271573.0,FIXED,normal,P2,Developer Tools: Inspector,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+727910,1329384834,664388.0,FIXED,normal,P1,Page Info,All,0,felix.the.cheshire.cat@gmail.com,3,0,0,0,1
+727997,1329397502,1022123.0,FIXED,normal,P1,Preferences,All,0,charles.wh.chan@gmail.com,0,1,0,0,0
+728073,1329405577,26049984.0,FIXED,normal,P4,Developer Tools: Inspector,Linux,0,abhishekp.bugzilla@gmail.com,0,1,0,0,0
+728168,1329443013,6258084.0,FIXED,normal,P1,File Handling,All,0,paolo.mozmail@amadzone.org,0,1,0,0,0
+728350,1329476620,2735001.0,FIXED,normal,P1,General,All,0,theo.chevalier11@gmail.com,0,1,0,0,0
+728426,1329486204,13428410.0,FIXED,normal,P4,Bookmarks & History,Linux,0,ttaubert@mozilla.com,0,1,0,0,0
+728508,1329500771,2868752.0,FIXED,normal,P1,Search,All,2,nobody@mozilla.org,0,1,0,0,0
+728538,1329528315,503341.0,FIXED,major,P1,Developer Tools: Console,All,0,sgautherie.bz@free.fr,1,0,1,0,0
+728606,1329571444,1622002.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+728830,1329704767,22053822.0,FIXED,normal,P2,Developer Tools: Debugger,All,1,mihai.sucan@gmail.com,0,1,0,0,0
+728831,1329705027,10718238.0,FIXED,normal,P4,General,All,0,dao@mozilla.com,2,0,0,1,0
+728833,1329705133,945394.0,FIXED,normal,P2,Developer Tools,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+728926,1329731831,4244281.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+728932,1329735183,27503.0,FIXED,normal,P1,General,All,0,dao@mozilla.com,0,1,0,0,0
+729191,1329817071,1368263.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+729220,1329820389,1733130.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,rcampbell@mozilla.com,3,0,0,0,1
+729293,1329828774,74764.0,FIXED,trivial,P1,Theme,Windows 7,0,soapyhamhocks@gmail.com,0,1,0,0,0
+729363,1329838841,84037.0,FIXED,normal,P1,Shell Integration,Mac OS X,0,dwitte@gmail.com,0,1,0,0,0
+729480,1329881712,1631914.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,scrapmachines@gmail.com,0,1,0,0,0
+729514,1329890708,7276731.0,FIXED,normal,P3,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+729522,1329892381,19627830.0,FIXED,normal,P4,General,All,0,dao@mozilla.com,0,1,0,0,0
+729539,1329893511,757039.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+729640,1329906808,15110046.0,FIXED,normal,P4,Phishing Protection,All,1,gpascutto@mozilla.com,0,1,0,0,0
+729867,1329956418,12122273.0,FIXED,normal,P4,Private Browsing,All,0,raymond@appcoast.com,0,1,0,0,0
+729928,1329976617,15040232.0,FIXED,trivial,P4,Phishing Protection,All,1,gpascutto@mozilla.com,0,1,0,0,0
+729960,1329981421,3994762.0,FIXED,normal,P1,Developer Tools,All,0,scrapmachines@gmail.com,0,1,0,0,0
+730041,1329992337,586220.0,FIXED,trivial,P1,Menus,All,0,rsx11m.pub@gmail.com,0,1,0,0,0
+730061,1329995651,1523211.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+730340,1330073188,8646219.0,FIXED,normal,P1,Bookmarks & History,All,0,mano@mozilla.com,0,1,0,0,0
+730618,1330174779,558150.0,FIXED,normal,P1,Build Config,All,1,bhearsum@mozilla.com,2,0,0,1,0
+730625,1330179069,2758220.0,FIXED,normal,P1,Preferences,All,0,smontagu@smontagu.org,0,1,0,0,0
+730668,1330228176,1773794.0,FIXED,normal,P1,Bookmarks & History,Windows 7,0,saneyuki.s.snyk@gmail.com,0,1,0,0,0
+730814,1330325532,184881.0,FIXED,normal,P1,General,All,0,gerv@mozilla.org,0,1,0,0,0
+730840,1330329736,5377364.0,FIXED,minor,P1,General,All,0,raymond@appcoast.com,2,0,0,1,0
+730898,1330336994,1176584.0,FIXED,trivial,P1,Developer Tools: Scratchpad,All,0,markcapella@twcny.rr.com,0,1,0,0,0
+731043,1330354221,156247.0,FIXED,normal,P1,Build Config,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+731123,1330377475,133711.0,FIXED,normal,P1,Bookmarks & History,Windows Vista,0,mak77@bonardo.net,0,1,0,0,0
+731157,1330393301,5541372.0,FIXED,normal,P1,General,All,0,raymond@appcoast.com,1,0,1,0,0
+731277,1330417764,1135711.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+731394,1330432944,1080656.0,FIXED,normal,P1,Developer Tools,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+731459,1330444004,900370.0,FIXED,normal,P1,Bookmarks & History,All,0,shorlander@mozilla.com,0,1,0,0,0
+731523,1330469590,180699.0,FIXED,normal,P1,Developer Tools: Console,All,0,vporof@mozilla.com,0,1,0,0,0
+731541,1330480697,4332417.0,FIXED,normal,P1,Shell Integration,All,0,felipc@gmail.com,0,1,0,0,0
+731546,1330482027,2034298.0,FIXED,normal,P1,General,All,0,fryn@frankyan.com,0,1,0,0,0
+731721,1330514051,1696499.0,FIXED,normal,P1,Developer Tools,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+731866,1330530425,6011824.0,FIXED,normal,P1,Preferences,All,1,joejoevictor@gmail.com,0,1,0,0,0
+731926,1330553135,9269157.0,FIXED,normal,P1,General,All,0,dolske@mozilla.com,0,1,0,0,0
+731972,1330575971,10964096.0,FIXED,normal,P4,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+732040,1330587469,63102.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,rcampbell@mozilla.com,0,1,0,0,0
+732125,1330599405,5942788.0,FIXED,normal,P1,Preferences,All,0,saylesd1@msu.edu,0,1,0,0,0
+732292,1330618566,4022294.0,FIXED,normal,P1,Session Restore,All,0,paul@oshannessy.com,0,1,0,0,0
+732313,1330627111,886441.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,fayearthur@gmail.com,0,1,0,0,0
+732404,1330668325,597653.0,FIXED,normal,P1,Bookmarks & History,Windows XP,0,mak77@bonardo.net,0,1,0,0,0
+732451,1330674611,5434688.0,FIXED,normal,P2,Developer Tools: Debugger,All,1,rcampbell@mozilla.com,0,1,0,0,0
+732452,1330674686,6645628.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,rcampbell@mozilla.com,0,1,0,0,0
+732501,1330682642,503000.0,FIXED,normal,P1,Developer Tools: Debugger,Windows 7,0,past@mozilla.com,0,1,0,0,0
+732874,1330888212,17923400.0,FIXED,normal,P4,Session Restore,All,0,andres@appcoast.com,0,1,0,0,0
+733115,1330949216,2143611.0,FIXED,normal,P1,Panorama,All,0,raymond@appcoast.com,1,0,1,0,0
+733297,1330986045,6670885.0,FIXED,minor,P1,Page Info,All,0,raymond@appcoast.com,3,0,0,0,1
+733469,1331028416,5513766.0,FIXED,normal,P1,Preferences,All,0,jon.rietveld@gmail.com,0,1,0,0,0
+733473,1331028598,5513505.0,FIXED,normal,P1,Preferences,All,0,jon.rietveld@gmail.com,3,0,0,0,1
+733612,1331049165,3603510.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,fayearthur@gmail.com,0,1,0,0,0
+733641,1331053694,3695889.0,FIXED,minor,P1,Migration,Windows 7,0,bsmith@mozilla.com,0,1,0,0,0
+733651,1331056863,805907.0,FIXED,normal,P1,General,All,0,fryn@frankyan.com,0,1,0,0,0
+733747,1331098196,5630487.0,FIXED,normal,P2,Developer Tools: Inspector,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+733783,1331104865,11303502.0,FIXED,normal,P4,Developer Tools: Console,All,0,vporof@mozilla.com,0,1,0,0,0
+734043,1331177681,375775.0,FIXED,normal,P1,General,All,0,ttaubert@mozilla.com,3,0,0,0,1
+734045,1331178076,7471056.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+734076,1331187937,5252174.0,FIXED,normal,P1,Security,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+734259,1331213924,1768743.0,FIXED,normal,P2,Developer Tools: Inspector,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+734273,1331218536,266726.0,FIXED,normal,P1,Tabbed Browser,All,0,dao@mozilla.com,1,0,1,0,0
+734280,1331219921,1635547.0,FIXED,normal,P1,General,All,0,ttaubert@mozilla.com,1,0,1,0,0
+734314,1331235081,318414.0,FIXED,major,P2,Developer Tools: Debugger,All,0,jgriffin@mozilla.com,0,1,0,0,0
+734317,1331237727,502026.0,FIXED,critical,P1,Untriaged,Linux,0,joe@drew.ca,0,1,0,0,0
+734365,1331268687,7328223.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,dcamp@mozilla.com,0,1,0,0,0
+734371,1331271488,801359.0,FIXED,normal,P1,Theme,Windows 7,0,soapyhamhocks@gmail.com,0,1,0,0,0
+734373,1331271770,3772154.0,FIXED,normal,P1,Theme,Windows XP,0,soapyhamhocks@gmail.com,0,1,0,0,0
+734374,1331271980,460329.0,FIXED,normal,P1,Theme,Windows 7,0,soapyhamhocks@gmail.com,0,1,0,0,0
+734628,1331347450,19751386.0,FIXED,normal,P4,Installer,Windows 7,0,netzen@gmail.com,0,1,0,0,0
+734641,1331359375,4750026.0,FIXED,normal,P2,Developer Tools: Debugger,All,2,mihai.sucan@gmail.com,0,1,0,0,0
+734646,1331362183,193999.0,FIXED,normal,P1,Bookmarks & History,All,0,mak77@bonardo.net,0,1,0,0,0
+734701,1331401829,3505018.0,FIXED,normal,P1,General,All,0,paolo.mozmail@amadzone.org,0,1,0,0,0
+734706,1331406137,888502.0,FIXED,normal,P1,Menus,All,0,dao@mozilla.com,0,1,0,0,0
+734911,1331542228,1440370.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+735091,1331564458,4977747.0,FIXED,normal,P1,Preferences,All,0,saylesd1@msu.edu,0,1,0,0,0
+735151,1331584450,626169.0,FIXED,normal,P1,Developer Tools: Inspector,Windows 7,0,vporof@mozilla.com,0,1,0,0,0
+735166,1331599358,263690.0,FIXED,normal,P1,General,All,0,ttaubert@mozilla.com,0,1,0,0,0
+735187,1331605583,12889.0,FIXED,normal,P1,Location Bar,All,0,mak77@bonardo.net,0,1,0,0,0
+735214,1331617485,3262419.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,paul@mozilla.com,0,1,0,0,0
+735233,1331620812,175453.0,FIXED,normal,P1,Keyboard Navigation,All,0,dao@mozilla.com,0,1,0,0,0
+735518,1331653099,3038989.0,FIXED,normal,P1,Web Apps,Windows 7,0,tabraldes@mozilla.com,0,1,0,0,0
+735564,1331668769,672924.0,FIXED,normal,P1,General,Windows 8,0,bmcbride@mozilla.com,0,1,0,0,0
+735576,1331678071,17623772.0,FIXED,normal,P2,Developer Tools: Inspector,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+735680,1331709482,2575019.0,FIXED,normal,P1,Theme,All,1,shorlander@mozilla.com,0,1,0,0,0
+735879,1331734555,128406.0,FIXED,normal,P1,General,All,0,mak77@bonardo.net,0,1,0,0,0
+735987,1331763536,180305.0,FIXED,normal,P1,General,All,0,ttaubert@mozilla.com,1,0,1,0,0
+736000,1331769722,1328793.0,FIXED,trivial,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+736028,1331778535,2440251.0,FIXED,normal,P1,General,All,0,jwein@mozilla.com,3,0,0,0,1
+736038,1331781405,1806414.0,FIXED,normal,P1,Developer Tools,Windows 7,0,mihai.sucan@gmail.com,0,1,0,0,0
+736358,1331838732,17835935.0,FIXED,normal,P4,General,All,0,graememcc_firefox@graeme-online.co.uk,0,1,0,0,0
+736416,1331861296,349351.0,FIXED,normal,P1,Session Restore,All,0,ttaubert@mozilla.com,0,1,0,0,0
+736424,1331866070,344599.0,FIXED,normal,P1,Panorama,All,0,ttaubert@mozilla.com,1,0,1,0,0
+736476,1331883004,2996880.0,FIXED,normal,P1,General,All,0,bellindira@appcoast.com,1,0,1,0,0
+736504,1331887497,13653.0,FIXED,normal,P1,Migration,Windows XP,0,mak77@bonardo.net,0,1,0,0,0
+736655,1331913871,5936985.0,FIXED,normal,P1,Installer,Mac OS X,0,smichaud@pobox.com,0,1,0,0,0
+736878,1332069189,142473.0,FIXED,normal,P1,General,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+736918,1332096977,200634.0,FIXED,major,P1,Search,All,0,dteller@mozilla.com,0,1,0,0,0
+736954,1332120467,698385.0,FIXED,normal,P1,Theme,Windows 7,0,dao@mozilla.com,0,1,0,0,0
+737032,1332140443,2139809.0,FIXED,normal,P1,Panorama,All,0,bellindira@appcoast.com,1,0,1,0,0
+737177,1332161341,4380879.0,FIXED,normal,P1,Preferences,All,0,jon.rietveld@gmail.com,0,1,0,0,0
+737381,1332213935,2164194.0,FIXED,normal,P1,Migration,Mac OS X,0,mano@mozilla.com,2,0,0,1,0
+737435,1332227487,17730522.0,FIXED,normal,P4,Installer,Windows 7,1,khuey@kylehuey.com,0,1,0,0,0
+737457,1332230630,752070.0,FIXED,normal,P1,Developer Tools,Windows 7,0,vporof@mozilla.com,0,1,0,0,0
+737464,1332231153,751484.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,3,0,0,0,1
+737535,1332238840,1714212.0,FIXED,normal,P1,Preferences,Linux,0,stransky@redhat.com,3,0,0,0,1
+737792,1332296350,13272612.0,FIXED,normal,P4,General,All,0,moz-ian@perix.co.uk,0,1,0,0,0
+737803,1332299318,17522852.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,anton@mozilla.com,0,1,0,0,0
+737808,1332301359,6422702.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+737821,1332305864,3094615.0,FIXED,normal,P1,Build Config,Linux,2,t.matsuu@gmail.com,2,0,0,1,0
+737873,1332313747,9643000.0,FIXED,normal,P1,Developer Tools: Console,All,0,tanvi@mozilla.com,0,1,0,0,0
+738128,1332356633,2437089.0,FIXED,normal,P1,Panorama,All,0,ttaubert@mozilla.com,0,1,0,0,0
+738160,1332373116,220704.0,FIXED,trivial,P1,Private Browsing,All,0,pallanikumaran@gmail.com,0,1,0,0,0
+738233,1332394262,199572.0,FIXED,normal,P1,General,All,0,moz-ian@perix.co.uk,0,1,0,0,0
+738642,1332484012,3625426.0,FIXED,normal,P1,General,All,0,fryn@frankyan.com,0,1,0,0,0
+738804,1332509110,308602.0,FIXED,normal,P1,General,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+739040,1332640594,2404941.0,FIXED,normal,P1,RSS Discovery and Preview,All,2,ehsan@mozilla.com,2,0,0,1,0
+739092,1332672221,12868077.0,FIXED,trivial,P4,General,All,0,dmc@gyrae.net,0,1,0,0,0
+739132,1332707105,1511245.0,FIXED,normal,P1,Installer,All,0,landry@openbsd.org,0,1,0,0,0
+739151,1332715421,9961018.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,sankha93@gmail.com,0,1,0,0,0
+739192,1332733272,1242891.0,FIXED,normal,P1,Developer Tools,All,0,scrapmachines@gmail.com,0,1,0,0,0
+739260,1332744822,74349.0,FIXED,normal,P1,General,Linux,0,nfroyd@mozilla.com,0,1,0,0,0
+739316,1332753804,834098.0,FIXED,normal,P1,Developer Tools: Debugger,Windows XP,0,mihai.sucan@gmail.com,0,1,0,0,0
+739531,1332797183,5223704.0,FIXED,normal,P1,Session Restore,All,0,paul@oshannessy.com,1,0,1,0,0
+739687,1332836596,593769.0,FIXED,major,P1,Phishing Protection,All,0,sgautherie.bz@free.fr,0,1,0,0,0
+739793,1332852137,151602.0,FIXED,normal,P1,General,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+739866,1332865525,1776441.0,FIXED,normal,P1,Tabbed Browser,All,0,pallanikumaran@gmail.com,0,1,0,0,0
+739925,1332897122,108174.0,FIXED,critical,P1,General,Linux,0,jfkthame@gmail.com,0,1,0,0,0
+739968,1332909295,2001635.0,FIXED,normal,P1,Migration,All,0,mak77@bonardo.net,0,1,0,0,0
+740076,1332927463,3315130.0,FIXED,normal,P1,Location Bar,All,0,mak77@bonardo.net,0,1,0,0,0
+740235,1332953690,139246.0,FIXED,normal,P1,General,All,0,fryn@frankyan.com,0,1,0,0,0
+740482,1333011154,5511535.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,rcampbell@mozilla.com,0,1,0,0,0
+740543,1333016448,5632971.0,FIXED,normal,P2,Developer Tools: Inspector,Mac OS X,0,dcamp@mozilla.com,0,1,0,0,0
+740551,1333017327,18839636.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+740581,1333021243,78432.0,FIXED,normal,P1,General,All,0,mak77@bonardo.net,0,1,0,0,0
+740606,1333024119,1630436.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,dcamp@mozilla.com,0,1,0,0,0
+740721,1333059859,5378035.0,FIXED,normal,P1,General,Windows 8,0,jmathies@mozilla.com,0,1,0,0,0
+740751,1333069305,944181.0,FIXED,normal,P1,Developer Tools: Debugger,Linux,0,mihai.sucan@gmail.com,0,1,0,0,0
+740775,1333077966,935491.0,FIXED,normal,P1,Developer Tools: Debugger,Mac OS X,0,mihai.sucan@gmail.com,0,1,0,0,0
+740795,1333084370,4586306.0,FIXED,normal,P1,PDF Viewer,All,0,benjamin@smedbergs.us,0,1,0,0,0
+740803,1333085544,2164270.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+740825,1333090103,20054748.0,FIXED,normal,P4,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+741004,1333116534,2397942.0,FIXED,normal,P1,General,All,0,mnoorenberghe+bmo@mozilla.com,0,1,0,0,0
+741064,1333157017,107819.0,FIXED,normal,P1,Bookmarks & History,All,0,sgautherie.bz@free.fr,0,1,0,0,0
+741065,1333157610,271692.0,FIXED,normal,P1,Bookmarks & History,All,0,sgautherie.bz@free.fr,0,1,0,0,0
+741066,1333158201,270608.0,FIXED,normal,P1,Bookmarks & History,All,0,sgautherie.bz@free.fr,0,1,0,0,0
+741174,1333241605,6580781.0,FIXED,normal,P1,Installer,Windows 7,0,bzhao@mozilla.com,0,1,0,0,0
+741415,1333351847,2691973.0,FIXED,normal,P1,Web Apps,All,1,felipc@gmail.com,0,1,0,0,0
+741506,1333362328,1095016.0,FIXED,normal,P1,Bookmarks & History,Mac OS X,0,mak77@bonardo.net,0,1,0,0,0
+741543,1333366300,220545.0,FIXED,normal,P1,Developer Tools: Scratchpad,All,0,mak77@bonardo.net,0,1,0,0,0
+741576,1333369403,12950750.0,FIXED,normal,P4,Developer Tools: Inspector,All,0,fayearthur@gmail.com,0,1,0,0,0
+742047,1333453730,5270186.0,FIXED,normal,P1,Session Restore,All,0,andres@appcoast.com,0,1,0,0,0
+742098,1333464032,755149.0,FIXED,normal,P1,Session Restore,All,0,maxli@maxli.ca,0,1,0,0,0
+742099,1333464162,5405115.0,FIXED,normal,P1,PDF Viewer,All,0,async.processingjs@yahoo.com,0,1,0,0,0
+742101,1333464340,14407101.0,FIXED,normal,P4,PDF Viewer,All,0,bdahl@mozilla.com,0,1,0,0,0
+742645,1333578641,380346.0,FIXED,normal,P1,Security,All,0,dao@mozilla.com,3,0,0,0,1
+742672,1333589471,3968689.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+742776,1333613654,1297290.0,FIXED,normal,P1,Location Bar,All,0,mak77@bonardo.net,0,1,0,0,0
+743421,1333744858,2437042.0,FIXED,normal,P1,General,All,0,jwein@mozilla.com,0,1,0,0,0
+743428,1333755590,283556.0,FIXED,normal,P1,Installer,OpenBSD,0,landry@openbsd.org,0,1,0,0,0
+743882,1333986609,1392400.0,FIXED,normal,P1,Session Restore,All,0,paul@oshannessy.com,0,1,0,0,0
+744193,1334061503,4733210.0,FIXED,normal,P3,Web Apps,Linux,0,mar.castelluccio@studenti.unina.it,0,1,0,0,0
+744610,1334149878,13778668.0,FIXED,minor,P4,General,All,0,bellindira@appcoast.com,3,0,0,0,1
+744697,1334177268,2343235.0,FIXED,normal,P1,Developer Tools: Debugger,Mac OS X,0,mihai.sucan@gmail.com,1,0,1,0,0
+744698,1334177428,2341397.0,FIXED,normal,P1,Search,All,1,dteller@mozilla.com,0,1,0,0,0
+744964,1334234456,143923.0,FIXED,normal,P1,General,All,0,jwein@mozilla.com,0,1,0,0,0
+744982,1334236701,4286471.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+745119,1334276148,376458.0,FIXED,normal,P1,Developer Tools: Console,All,0,markcapella@twcny.rr.com,0,1,0,0,0
+745172,1334290769,2876530.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+745342,1334321079,319795.0,FIXED,normal,P1,Session Restore,All,0,paul@oshannessy.com,0,1,0,0,0
+745426,1334358374,3302192.0,FIXED,normal,P1,Installer,Windows 7,0,robert.bugzilla@gmail.com,0,1,0,0,0
+745445,1334376865,264574.0,FIXED,normal,P1,General,All,0,saneyuki.s.snyk@gmail.com,0,1,0,0,0
+745524,1334449494,108361.0,FIXED,normal,P1,General,Windows 7,0,saneyuki.s.snyk@gmail.com,0,1,0,0,0
+745525,1334449802,108064.0,FIXED,normal,P1,General,Windows 7,0,saneyuki.s.snyk@gmail.com,0,1,0,0,0
+745741,1334554531,2612574.0,FIXED,normal,P1,Developer Tools: Console,All,1,jwalker@mozilla.com,0,1,0,0,0
+745904,1334574351,2592713.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+745961,1334580036,4016948.0,FIXED,normal,P1,Developer Tools: Inspector,Windows 7,0,dcamp@mozilla.com,0,1,0,0,0
+746369,1334669556,184763.0,FIXED,critical,P1,Web Apps,All,0,felipc@gmail.com,0,1,0,0,0
+746466,1334692968,264902.0,FIXED,normal,P1,General,All,0,fryn@frankyan.com,0,1,0,0,0
+746499,1334704680,3694402.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+746629,1334735722,106730.0,FIXED,blocker,P1,Web Apps,All,0,myk@mozilla.org,0,1,0,0,0
+746648,1334738289,3684018.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,3,0,0,0,1
+746658,1334739135,961862.0,FIXED,normal,P1,Downloads Panel,Mac OS X,0,paolo.mozmail@amadzone.org,0,1,0,0,0
+746674,1334740865,18131743.0,FIXED,normal,P4,Theme,Windows XP,0,mconley@mozilla.com,0,1,0,0,0
+746756,1334753705,16345285.0,FIXED,normal,P4,Downloads Panel,All,0,mconley@mozilla.com,0,1,0,0,0
+746787,1334758791,942271.0,FIXED,normal,P1,Downloads Panel,Windows 7,0,paolo.mozmail@amadzone.org,0,1,0,0,0
+746837,1334764698,215332.0,FIXED,normal,P1,Session Restore,All,0,dao@mozilla.com,0,1,0,0,0
+746853,1334767633,933392.0,FIXED,normal,P1,Downloads Panel,Linux,0,paolo.mozmail@amadzone.org,0,1,0,0,0
+747041,1334820349,310610.0,FIXED,normal,P1,Web Apps,All,0,t.matsuu@gmail.com,0,1,0,0,0
+747161,1334836410,18111.0,FIXED,normal,P1,Web Apps,All,0,felipc@gmail.com,0,1,0,0,0
+747225,1334843614,3177035.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,dcamp@mozilla.com,0,1,0,0,0
+747264,1334849944,95372.0,FIXED,normal,P1,General,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+747409,1334903636,331259.0,FIXED,critical,P1,Web Apps,Windows 7,0,tabraldes@mozilla.com,0,1,0,0,0
+747412,1334904164,598012.0,FIXED,normal,P1,Web Apps,All,0,edilee@mozilla.com,0,1,0,0,0
+747429,1334907203,1520512.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+747470,1334912867,506415.0,FIXED,critical,P1,Web Apps,Windows XP,0,tabraldes@mozilla.com,0,1,0,0,0
+747742,1335069356,106731.0,FIXED,normal,P1,Theme,All,0,dao@mozilla.com,0,1,0,0,0
+747820,1335120920,12110039.0,FIXED,normal,P4,Developer Tools: Style Editor,All,1,thaddee.tyl@gmail.com,0,1,0,0,0
+747903,1335157903,10757822.0,FIXED,normal,P4,Downloads Panel,All,0,paolo.mozmail@amadzone.org,0,1,0,0,0
+747919,1335161402,797695.0,FIXED,normal,P1,Developer Tools: Inspector,All,1,paul@mozilla.com,0,1,0,0,0
+747921,1335161862,257232.0,FIXED,normal,P1,Web Apps,Windows 7,0,felipc@gmail.com,0,1,0,0,0
+748047,1335176043,3110302.0,FIXED,major,P1,Migration,All,0,mano@mozilla.com,0,1,0,0,0
+748160,1335190499,10725198.0,FIXED,normal,P4,Downloads Panel,Linux,0,paolo.mozmail@amadzone.org,0,1,0,0,0
+748161,1335190726,1237084.0,FIXED,normal,P1,Theme,All,1,fryn@frankyan.com,1,0,1,0,0
+748381,1335249154,10666599.0,FIXED,normal,P4,Downloads Panel,All,0,paolo.mozmail@amadzone.org,0,1,0,0,0
+748477,1335260165,3861726.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,saurabhanandiit@gmail.com,0,1,0,0,0
+748684,1335310996,1856329.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+748802,1335336507,2021091.0,FIXED,normal,P1,Tabbed Browser,Mac OS X,0,raymond@appcoast.com,0,1,0,0,0
+748924,1335352278,3180712.0,FIXED,normal,P1,PDF Viewer,Mac OS X,0,aadib@mozilla.com,0,1,0,0,0
+748927,1335352640,1075109.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+749127,1335403728,1024045.0,FIXED,normal,P1,Developer Tools: Debugger,Windows 7,0,vporof@mozilla.com,0,1,0,0,0
+749187,1335418487,1799021.0,FIXED,normal,P1,Private Browsing,All,0,ehsan@mozilla.com,1,0,1,0,0
+749231,1335424565,532709.0,FIXED,normal,P1,Developer Tools: Debugger,All,1,jimb@mozilla.com,0,1,0,0,0
+749278,1335432011,1736123.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,thaddee.tyl@gmail.com,0,1,0,0,0
+749316,1335436641,745034.0,FIXED,normal,P1,Developer Tools: Scratchpad,All,0,jorendorff@mozilla.com,0,1,0,0,0
+749390,1335443708,16080555.0,FIXED,normal,P4,Private Browsing,All,0,ehsan@mozilla.com,0,1,0,0,0
+749477,1335457461,12076784.0,FIXED,normal,P4,General,All,0,mak77@bonardo.net,0,1,0,0,0
+749527,1335473027,512680.0,FIXED,minor,P1,Untriaged,Windows 7,0,netzen@gmail.com,0,1,0,0,0
+749548,1335485851,280260.0,FIXED,normal,P1,Migration,All,0,mh+mozilla@glandium.org,0,1,0,0,0
+749626,1335506627,1221916.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+749628,1335506805,3089961.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+749892,1335554934,583770.0,FIXED,normal,P1,Panorama,Windows 7,0,ttaubert@mozilla.com,0,1,0,0,0
+749931,1335580604,2775760.0,FIXED,major,P1,Migration,All,0,mnoorenberghe+bmo@mozilla.com,0,1,0,0,0
+749974,1335610259,4100529.0,FIXED,normal,P1,Developer Tools,Windows 7,1,paul@mozilla.com,0,1,0,0,0
+750056,1335673605,823840.0,FIXED,normal,P1,General,All,0,jwein@mozilla.com,3,0,0,0,1
+750454,1335785037,3178675.0,FIXED,major,P1,General,All,0,justin.lebar+bug@gmail.com,0,1,0,0,0
+750544,1335795261,15794564.0,FIXED,normal,P4,Bookmarks & History,All,0,johan.charlez@gmail.com,0,1,0,0,0
+750625,1335827345,9189489.0,FIXED,critical,P1,Phishing Protection,Windows XP,0,gpascutto@mozilla.com,2,0,0,1,0
+750936,1335879927,2913582.0,FIXED,normal,P1,Web Apps,All,0,myk@mozilla.org,2,0,0,1,0
+750953,1335881618,4525533.0,FIXED,major,P1,General,All,1,justin.lebar+bug@gmail.com,0,1,0,0,0
+750980,1335888794,62887.0,FIXED,normal,P1,Tabbed Browser,All,0,dao@mozilla.com,0,1,0,0,0
+751120,1335927571,1239784.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+751141,1335932385,15827481.0,FIXED,normal,P3,Developer Tools: Debugger,Windows XP,0,nobody@mozilla.org,0,1,0,0,0
+751164,1335936542,692910.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,rcampbell@mozilla.com,0,1,0,0,0
+751177,1335938136,1906842.0,FIXED,critical,P1,Web Apps,Windows 7,0,tabraldes@mozilla.com,0,1,0,0,0
+751226,1335945000,7277212.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+751444,1335977902,16361106.0,FIXED,normal,P4,General,All,1,jwein@mozilla.com,0,1,0,0,0
+751694,1336044805,1895489.0,FIXED,normal,P1,General,All,0,anthony.s.hughes@gmail.com,2,0,0,1,0
+751739,1336052861,11447913.0,FIXED,normal,P3,Developer Tools: Scratchpad,All,2,anton@mozilla.com,0,1,0,0,0
+751744,1336053416,11177490.0,FIXED,normal,P3,Developer Tools: Scratchpad,All,0,scrapmachines@gmail.com,0,1,0,0,0
+751904,1336113247,6295041.0,FIXED,normal,P2,Developer Tools,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+751910,1336114051,2163765.0,FIXED,normal,P1,Developer Tools,All,0,shorlander@mozilla.com,0,1,0,0,0
+751947,1336120925,13735904.0,FIXED,normal,P4,Downloads Panel,Windows 7,0,mconley@mozilla.com,0,1,0,0,0
+751949,1336121206,6288045.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,3,0,0,0,1
+751955,1336121685,17066.0,FIXED,normal,P1,General,Mac OS X,0,paul@oshannessy.com,0,1,0,0,0
+752376,1336315298,14867246.0,FIXED,normal,P4,Tabbed Browser,All,0,dao@mozilla.com,1,0,1,0,0
+752407,1336336354,3742961.0,FIXED,normal,P1,General,All,0,ttaubert@mozilla.com,0,1,0,0,0
+752409,1336336919,662270.0,FIXED,normal,P1,Tabbed Browser,Windows 7,0,ttaubert@mozilla.com,0,1,0,0,0
+752486,1336367125,7340658.0,FIXED,normal,P1,General,All,0,enndeakin@gmail.com,0,1,0,0,0
+752496,1336368622,14646921.0,FIXED,normal,P4,General,All,0,nobody@mozilla.org,0,1,0,0,0
+752770,1336407553,1253140.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+752839,1336436686,10305702.0,FIXED,normal,P4,Tabbed Browser,All,0,ttaubert@mozilla.com,1,0,1,0,0
+752841,1336437122,9009594.0,FIXED,normal,P1,General,All,0,bellindira@appcoast.com,1,0,1,0,0
+752850,1336441392,12860432.0,FIXED,normal,P4,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+752895,1336453395,3065453.0,FIXED,normal,P1,Build Config,Linux,0,b3nton@gmail.com,0,1,0,0,0
+752918,1336457977,539669.0,FIXED,normal,P1,Theme,All,0,jet@mozilla.com,0,1,0,0,0
+753021,1336469754,6726995.0,FIXED,normal,P1,Shell Integration,Windows 8,0,artpar@gmail.com,0,1,0,0,0
+753127,1336481681,11803539.0,FIXED,normal,P4,Tabbed Browser,All,0,bellindira@appcoast.com,1,0,1,0,0
+753142,1336482844,6925.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,jgriffin@mozilla.com,0,1,0,0,0
+753308,1336539784,383846.0,FIXED,normal,P1,General,All,0,raymond@appcoast.com,0,1,0,0,0
+753311,1336540212,1982805.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,1,0,1,0,0
+753401,1336551247,11550618.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,1,0,1,0,0
+753546,1336566791,1094445.0,FIXED,normal,P1,General,All,0,cpearce@mozilla.com,0,1,0,0,0
+753565,1336569749,1091539.0,FIXED,normal,P3,Web Apps,Mac OS X,0,mar.castelluccio@studenti.unina.it,0,1,0,0,0
+753672,1336604188,1833622.0,FIXED,normal,P1,Bookmarks & History,All,0,mak77@bonardo.net,0,1,0,0,0
+753677,1336605554,1991321.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+753755,1336624299,374953.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,3,0,0,0,1
+754251,1336709841,2852520.0,FIXED,normal,P2,Developer Tools: Debugger,Mac OS X,0,past@mozilla.com,0,1,0,0,0
+754342,1336723709,493666.0,FIXED,normal,P1,Preferences,All,0,mnoorenberghe+bmo@mozilla.com,0,1,0,0,0
+754472,1336742518,12453808.0,FIXED,normal,P4,General,All,1,dkeeler@mozilla.com,0,1,0,0,0
+754608,1336818426,369234.0,FIXED,major,P1,Tabbed Browser,All,1,ttaubert@mozilla.com,3,0,0,0,1
+754653,1336869381,128160.0,FIXED,normal,P1,Developer Tools: Inspector,Windows 7,0,saneyuki.s.snyk@gmail.com,0,1,0,0,0
+754671,1336887180,8779546.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,3,0,0,0,1
+755122,1337007095,9713072.0,FIXED,blocker,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+755136,1337008493,5731578.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+755289,1337059710,108355.0,FIXED,normal,P1,Developer Tools,All,0,scrapmachines@gmail.com,0,1,0,0,0
+755388,1337071846,1451343.0,FIXED,normal,P1,Developer Tools,All,0,jwalker@mozilla.com,0,1,0,0,0
+755429,1337075387,1281235.0,FIXED,normal,P1,Theme,All,0,jaws@mozilla.com,0,1,0,0,0
+755661,1337129257,12172497.0,FIXED,normal,P2,Developer Tools: Debugger,Mac OS X,0,nfitzgerald@mozilla.com,0,1,0,0,0
+756021,1337207078,513591.0,FIXED,normal,P1,SocialAPI,Windows Vista,0,mixedpuppy@gmail.com,0,1,0,0,0
+756195,1337249051,606941.0,FIXED,normal,P1,SocialAPI,Mac OS X,0,mixedpuppy@gmail.com,0,1,0,0,0
+756308,1337265446,2978763.0,FIXED,normal,P1,Web Apps,Mac OS X,0,dwalkowski@mozilla.com,0,1,0,0,0
+756313,1337266402,14551549.0,FIXED,normal,P4,General,All,1,dao@mozilla.com,0,1,0,0,0
+756325,1337268273,1168401.0,FIXED,normal,P1,General,All,0,robert.bugzilla@gmail.com,0,1,0,0,0
+756423,1337309939,6466717.0,FIXED,normal,P1,Developer Tools: Scratchpad,All,0,markcapella@twcny.rr.com,0,1,0,0,0
+756587,1337340262,443661.0,FIXED,critical,P1,SocialAPI,Mac OS X,0,mixedpuppy@gmail.com,0,1,0,0,0
+756589,1337340467,859110.0,FIXED,blocker,P1,SocialAPI,Mac OS X,0,mixedpuppy@gmail.com,0,1,0,0,0
+756887,1337508283,890723.0,FIXED,normal,P1,Developer Tools,All,0,jwalker@mozilla.com,0,1,0,0,0
+756888,1337511102,149658.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+756890,1337511881,1011385.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+756972,1337553838,904321.0,FIXED,normal,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+757128,1337589876,1538539.0,FIXED,blocker,P1,Developer Tools: Debugger,Mac OS X,0,past@mozilla.com,0,1,0,0,0
+757278,1337611610,911445.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+757282,1337612902,1111240.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+757439,1337665445,178784.0,FIXED,normal,P1,General,All,0,ehsan@mozilla.com,0,1,0,0,0
+757487,1337671577,727484.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+757488,1337671670,727466.0,FIXED,normal,P1,Developer Tools,All,0,jwalker@mozilla.com,0,1,0,0,0
+757678,1337701248,2721822.0,FIXED,normal,P1,Webapp Runtime,All,0,myk@mozilla.org,0,1,0,0,0
+757945,1337767231,655040.0,FIXED,normal,P1,Developer Tools: Inspector,Windows 7,0,johan.charlez@gmail.com,3,0,0,0,1
+757978,1337771697,8355416.0,FIXED,normal,P1,Installer,Windows 7,0,tabraldes@mozilla.com,2,0,0,1,0
+758044,1337780617,1014485.0,FIXED,normal,P3,Web Apps,Windows 7,0,tabraldes@mozilla.com,0,1,0,0,0
+758208,1337836283,184943.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+758248,1337844106,1128652.0,FIXED,normal,P1,General,All,0,justin.lebar+bug@gmail.com,0,1,0,0,0
+758280,1337848159,7675258.0,FIXED,normal,P1,General,Windows 7,0,tabraldes@mozilla.com,0,1,0,0,0
+758291,1337849549,1414443.0,FIXED,normal,P1,PDF Viewer,Windows 7,0,async.processingjs@yahoo.com,0,1,0,0,0
+758515,1337895289,15102334.0,FIXED,normal,P4,Theme,All,0,mconley@mozilla.com,0,1,0,0,0
+758579,1337915018,483971.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+758599,1337920890,6308931.0,FIXED,normal,P1,Developer Tools: Console,All,0,shorlander@mozilla.com,0,1,0,0,0
+758660,1337929327,3123754.0,FIXED,normal,P1,Panorama,All,0,saurabhanandiit@gmail.com,0,1,0,0,0
+758683,1337933278,589675.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,rcampbell@mozilla.com,0,1,0,0,0
+758696,1337936123,660711.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+758812,1337951337,678908.0,FIXED,normal,P1,General,All,0,dolske@mozilla.com,0,1,0,0,0
+758990,1338121080,511683.0,FIXED,normal,P1,RSS Discovery and Preview,All,0,philringnalda@gmail.com,3,0,0,0,1
+759010,1338141222,86916.0,FIXED,major,P1,SocialAPI,Windows Vista,0,mhammond@skippinet.com.au,0,1,0,0,0
+759157,1338196379,12523702.0,FIXED,critical,P4,Developer Tools: Inspector,Linux,2,vporof@mozilla.com,0,1,0,0,0
+759397,1338280900,13941617.0,FIXED,normal,P4,Downloads Panel,Windows 7,1,mconley@mozilla.com,0,1,0,0,0
+759502,1338293062,4466279.0,FIXED,normal,P1,Webapp Runtime,All,0,felipc@gmail.com,0,1,0,0,0
+759619,1338313272,2739926.0,FIXED,normal,P3,Webapp Runtime,All,0,felipc@gmail.com,0,1,0,0,0
+759803,1338364773,157948.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,rcampbell@mozilla.com,0,1,0,0,0
+760036,1338427057,17728052.0,FIXED,blocker,P4,Search,All,0,dteller@mozilla.com,3,0,0,0,1
+760171,1338451381,1359704.0,FIXED,major,P1,Developer Tools: Inspector,All,0,paul@mozilla.com,0,1,0,0,0
+760450,1338529690,2932881.0,FIXED,normal,P1,Developer Tools: Console,Mac OS X,0,jwalker@mozilla.com,0,1,0,0,0
+760607,1338541793,7373997.0,FIXED,normal,P1,Downloads Panel,Linux,0,paolo.mozmail@amadzone.org,0,1,0,0,0
+760671,1338553846,602682.0,FIXED,normal,P1,Installer,Windows 8,0,netzen@gmail.com,0,1,0,0,0
+760680,1338554347,602213.0,FIXED,normal,P1,Shell Integration,Windows 8,0,netzen@gmail.com,0,1,0,0,0
+760729,1338560005,268431.0,FIXED,normal,P1,General,Windows 8,0,netzen@gmail.com,3,0,0,0,1
+760748,1338568186,5749492.0,FIXED,normal,P3,Web Apps,Linux,0,mar.castelluccio@studenti.unina.it,0,1,0,0,0
+760777,1338597124,11981144.0,FIXED,minor,P4,Theme,Linux,0,mconley@mozilla.com,0,1,0,0,0
+760791,1338606117,43210.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+760793,1338607442,41906.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+760794,1338607913,615858.0,FIXED,normal,P1,Panorama,All,0,raymond@appcoast.com,0,1,0,0,0
+760803,1338611293,25859.0,FIXED,normal,P1,Location Bar,All,0,mak77@bonardo.net,0,1,0,0,0
+760804,1338611920,258082.0,FIXED,normal,P1,PDF Viewer,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+760868,1338640531,324423.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+760882,1338656399,567538.0,FIXED,normal,P2,Developer Tools: Debugger,Windows 7,0,past@mozilla.com,3,0,0,0,1
+760940,1338682112,4514697.0,FIXED,normal,P1,Bookmarks & History,Linux,0,mano@mozilla.com,0,1,0,0,0
+760999,1338712411,1098719.0,FIXED,normal,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+761007,1338716367,14070736.0,FIXED,normal,P3,Developer Tools: Inspector,Linux,0,rcampbell@mozilla.com,0,1,0,0,0
+761023,1338723690,1355609.0,FIXED,normal,P1,Developer Tools: Console,All,0,paul@mozilla.com,0,1,0,0,0
+761031,1338729024,833364.0,FIXED,normal,P3,Developer Tools,All,0,jwalker@mozilla.com,0,1,0,0,0
+761174,1338793020,1553996.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+761223,1338797872,426025.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+761231,1338799612,165324.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+761257,1338803310,1007796.0,FIXED,normal,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+761268,1338804794,757579.0,FIXED,normal,P2,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+761455,1338823691,1708.0,FIXED,normal,P1,SocialAPI,Mac OS X,0,mixedpuppy@gmail.com,0,1,0,0,0
+761481,1338829931,3130721.0,FIXED,normal,P1,Developer Tools,Mac OS X,1,jwalker@mozilla.com,0,1,0,0,0
+761494,1338835770,2087903.0,FIXED,normal,P1,Bookmarks & History,Windows 7,0,mano@mozilla.com,1,0,1,0,0
+761496,1338836813,204085.0,FIXED,normal,P1,Web Apps,Linux,0,mar.castelluccio@studenti.unina.it,0,1,0,0,0
+761516,1338845084,714903.0,FIXED,normal,P1,Web Apps,OpenBSD,1,landry@openbsd.org,0,1,0,0,0
+761665,1338881623,1351520.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,dcamp@mozilla.com,0,1,0,0,0
+761742,1338890615,1719863.0,FIXED,normal,P2,Developer Tools: Debugger,Mac OS X,1,past@mozilla.com,0,1,0,0,0
+761806,1338900768,5510321.0,FIXED,normal,P3,Web Apps,Linux,0,mar.castelluccio@studenti.unina.it,0,1,0,0,0
+761884,1338917222,1429815.0,FIXED,normal,P1,Developer Tools: Inspector,Mac OS X,0,matt.woodrow@gmail.com,0,1,0,0,0
+761975,1338947794,93329.0,FIXED,normal,P1,Webapp Runtime,All,0,t.matsuu@gmail.com,2,0,0,1,0
+761990,1338950900,1657535.0,FIXED,normal,P1,General,Windows XP,1,dao@mozilla.com,0,1,0,0,0
+762195,1338978644,581222.0,FIXED,normal,P2,Webapp Runtime,All,0,edilee@mozilla.com,0,1,0,0,0
+762310,1338993967,4202771.0,FIXED,normal,P1,General,Windows 7,0,tabraldes@mozilla.com,0,1,0,0,0
+762395,1339021608,497154.0,FIXED,normal,P1,Developer Tools,All,0,dao@mozilla.com,0,1,0,0,0
+762452,1339039691,1193353.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+762454,1339040094,183861.0,FIXED,normal,P2,Developer Tools: Debugger,Mac OS X,0,vporof@mozilla.com,0,1,0,0,0
+762569,1339057406,2267052.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+762571,1339057710,13894801.0,FIXED,normal,P4,Developer Tools: Inspector,Mac OS X,0,paul@mozilla.com,0,1,0,0,0
+762639,1339067048,665792.0,FIXED,normal,P1,Migration,Linux,0,mano@mozilla.com,0,1,0,0,0
+762641,1339067729,1671616.0,FIXED,normal,P3,Webapp Runtime,Linux,1,chrisccoulson@ubuntu.com,0,1,0,0,0
+762799,1339108455,1815204.0,FIXED,normal,P1,Bookmarks & History,All,0,mano@mozilla.com,0,1,0,0,0
+762846,1339119593,9578102.0,FIXED,normal,P1,Developer Tools,All,0,hubert.sablonniere@gmail.com,0,1,0,0,0
+762864,1339125530,2953048.0,FIXED,normal,P3,Webapp Runtime,Linux,0,mh+mozilla@glandium.org,0,1,0,0,0
+762966,1339142574,9676667.0,FIXED,normal,P1,Preferences,All,0,raymond@appcoast.com,0,1,0,0,0
+763033,1339153290,109053.0,FIXED,normal,P1,General,All,0,jonathan@speedbreeze.com,0,1,0,0,0
+763111,1339167735,96535.0,FIXED,trivial,P1,Private Browsing,Linux,0,saurabhanandiit@gmail.com,0,1,0,0,0
+763232,1339245672,4565503.0,FIXED,normal,P1,Preferences,Linux,0,mnoorenberghe+bmo@mozilla.com,0,1,0,0,0
+763266,1339284719,5303523.0,FIXED,normal,P1,PDF Viewer,All,0,async.processingjs@yahoo.com,3,0,0,0,1
+763358,1339340813,294051.0,FIXED,normal,P1,Web Apps,Linux,0,mar.castelluccio@studenti.unina.it,0,1,0,0,0
+763365,1339346938,2206827.0,FIXED,normal,P3,Web Apps,Linux,0,mar.castelluccio@studenti.unina.it,2,0,0,1,0
+763491,1339393753,1332983.0,FIXED,normal,P1,Web Apps,Windows 7,1,tabraldes@mozilla.com,2,0,0,1,0
+763932,1339480204,1221333.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+764172,1339505214,1333302.0,FIXED,major,P1,Web Apps,All,0,mar.castelluccio@studenti.unina.it,0,1,0,0,0
+764190,1339508217,6234149.0,FIXED,normal,P1,Bookmarks & History,All,0,nfroyd@mozilla.com,0,1,0,0,0
+764241,1339521531,1807054.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+764265,1339532037,1792964.0,FIXED,normal,P1,SocialAPI,Windows Vista,0,mixedpuppy@gmail.com,0,1,0,0,0
+764318,1339551133,682521.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+764515,1339581751,150863.0,FIXED,normal,P1,Shell Integration,Windows 8,0,netzen@gmail.com,0,1,0,0,0
+764545,1339586716,1475480.0,FIXED,normal,P1,Developer Tools: Console,All,0,sankha93@gmail.com,0,1,0,0,0
+764555,1339587506,1952582.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+764572,1339589067,8416141.0,FIXED,normal,P1,Developer Tools: Console,All,0,saneyuki.s.snyk@gmail.com,0,1,0,0,0
+764625,1339595171,638027.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+764746,1339634777,1905306.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+764869,1339659064,3537793.0,FIXED,normal,P1,SocialAPI,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+764872,1339659558,3537292.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+764931,1339665540,145554.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,0,1,0,0,0
+765411,1339771980,2568371.0,FIXED,normal,P1,General,All,1,jaws@mozilla.com,0,1,0,0,0
+765564,1339900107,2935392.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+765729,1339997804,703752.0,FIXED,major,P1,General,All,0,andres@appcoast.com,1,0,1,0,0
+765750,1340000867,9332943.0,FIXED,normal,P1,General,All,0,fryn@frankyan.com,0,1,0,0,0
+766054,1340065709,5841470.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+766133,1340087167,9587608.0,FIXED,normal,P2,Developer Tools,All,0,jwalker@mozilla.com,0,1,0,0,0
+766263,1340102462,11168943.0,FIXED,normal,P4,Downloads Panel,Mac OS X,0,mconley@mozilla.com,2,0,0,1,0
+766403,1340119177,1382982.0,FIXED,normal,P1,SocialAPI,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+766597,1340177300,884929.0,FIXED,minor,P1,Panorama,All,0,andres@appcoast.com,1,0,1,0,0
+766616,1340179846,9393191.0,FIXED,blocker,P1,SocialAPI,All,0,felipc@gmail.com,0,1,0,0,0
+766654,1340185132,12634154.0,FIXED,normal,P4,Downloads Panel,All,0,mconley@mozilla.com,0,1,0,0,0
+766753,1340198793,4902596.0,FIXED,normal,P3,Webapp Runtime,All,0,myk@mozilla.org,0,1,0,0,0
+766812,1340208751,492801.0,FIXED,normal,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+766985,1340259321,246476.0,FIXED,normal,P1,Theme,All,1,shorlander@mozilla.com,0,1,0,0,0
+766999,1340260984,440563.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,paul@mozilla.com,0,1,0,0,0
+767289,1340320938,1084029.0,FIXED,normal,P1,General,All,0,owen@owencoutts.com,1,0,1,0,0
+767373,1340343211,1196885.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+767377,1340343910,2065285.0,FIXED,minor,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+767384,1340344694,2064488.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,3,0,0,0,1
+767389,1340345106,2064097.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+767399,1340346690,1795122.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,3,0,0,0,1
+767401,1340347076,2062115.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+767676,1340402269,3569686.0,FIXED,normal,P1,Security,Linux,0,dev.akhawe+mozilla@gmail.com,0,1,0,0,0
+767729,1340442920,1097142.0,FIXED,normal,P2,Developer Tools: Console,Windows 7,0,jwalker@mozilla.com,1,0,1,0,0
+767835,1340543409,781067.0,FIXED,normal,P1,Tabbed Browser,Windows 7,0,ehsan@mozilla.com,1,0,1,0,0
+767836,1340544023,860938.0,FIXED,normal,P1,Tabbed Browser,All,0,saurabhanandiit@gmail.com,3,0,0,0,1
+767994,1340603844,458362.0,FIXED,normal,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+768019,1340606568,455634.0,FIXED,normal,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+768096,1340614637,9060038.0,FIXED,normal,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+768150,1340618259,844318.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+768399,1340678276,8996485.0,FIXED,normal,P3,Developer Tools: Console,All,0,ksk.3393@gmail.com,0,1,0,0,0
+768677,1340717610,1691589.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+768744,1340729035,5591166.0,FIXED,major,P1,Developer Tools: Console,All,1,jwalker@mozilla.com,0,1,0,0,0
+768846,1340766726,14688788.0,FIXED,normal,P3,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+768927,1340781264,873888.0,FIXED,normal,P2,Web Apps,Mac OS X,0,bwalker@mozilla.com,0,1,0,0,0
+769101,1340809453,7737186.0,FIXED,normal,P1,Tabbed Browser,All,0,ananuti@gmail.com,1,0,1,0,0
+769186,1340843855,1112887.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+769234,1340856566,606016.0,FIXED,normal,P1,Developer Tools,All,0,jwalker@mozilla.com,2,0,0,1,0
+769528,1340905901,33702.0,FIXED,normal,P1,General,Windows 8 Metro,0,jmathies@mozilla.com,0,1,0,0,0
+769545,1340917271,636581.0,FIXED,normal,P1,Web Apps,Windows 7,0,felipc@gmail.com,0,1,0,0,0
+769672,1340950250,589829.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+769679,1340952520,100575.0,FIXED,normal,P1,Developer Tools: Console,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+769955,1341058449,495399.0,FIXED,normal,P1,Web Apps,Windows 7,0,felipc@gmail.com,0,1,0,0,0
+769960,1341062786,2430452.0,FIXED,normal,P1,Phishing Protection,All,0,dolske@mozilla.com,0,1,0,0,0
+770145,1341201170,1207174.0,FIXED,normal,P2,Developer Tools,All,0,jwalker@mozilla.com,0,1,0,0,0
+770297,1341226200,28686.0,FIXED,normal,P1,Web Apps,All,0,felipc@gmail.com,0,1,0,0,0
+770478,1341287091,1236662.0,FIXED,normal,P1,Installer,Windows Vista,0,robert.bugzilla@gmail.com,0,1,0,0,0
+770542,1341296860,2311065.0,FIXED,normal,P3,Developer Tools: Debugger,Mac OS X,1,vporof@mozilla.com,0,1,0,0,0
+770550,1341298317,78348.0,FIXED,normal,P1,SocialAPI,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+770695,1341321289,1965899.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+770770,1341333775,3715401.0,FIXED,normal,P2,Webapp Runtime,All,0,myk@mozilla.org,0,1,0,0,0
+770771,1341333847,919182.0,FIXED,normal,P1,Webapp Runtime,Windows 7,0,mar.castelluccio@studenti.unina.it,0,1,0,0,0
+770772,1341333907,954757.0,FIXED,normal,P3,Webapp Runtime,Linux,0,mar.castelluccio@studenti.unina.it,0,1,0,0,0
+770818,1341361386,4625155.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,paul@mozilla.com,0,1,0,0,0
+770882,1341378752,4287969.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+770896,1341381715,546480.0,FIXED,normal,P1,General,Windows 7,0,jmathies@mozilla.com,0,1,0,0,0
+770929,1341389002,151073.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+770993,1341402212,335262.0,FIXED,major,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+771090,1341454109,490971.0,FIXED,critical,P1,Webapp Runtime,Windows 7,0,tabraldes@mozilla.com,2,0,0,1,0
+771247,1341480785,21370.0,FIXED,normal,P1,SocialAPI,All,1,gavin.sharp@gmail.com,0,1,0,0,0
+771344,1341491814,163597.0,FIXED,normal,P1,SocialAPI,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+771356,1341494105,557194.0,FIXED,normal,P1,Developer Tools,All,0,jwalker@mozilla.com,0,1,0,0,0
+771365,1341495950,159437.0,FIXED,normal,P1,SocialAPI,All,0,ananuti@gmail.com,0,1,0,0,0
+771429,1341525828,727165.0,FIXED,normal,P1,Developer Tools: Console,All,0,bzbarsky@mit.edu,0,1,0,0,0
+771452,1341535864,873393.0,FIXED,normal,P2,Developer Tools: Debugger,Linux,0,past@mozilla.com,0,1,0,0,0
+771481,1341544875,1131572.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+771504,1341551076,2323058.0,FIXED,normal,P1,Session Restore,All,0,andres@appcoast.com,1,0,1,0,0
+771526,1341555949,4351137.0,FIXED,normal,P1,Developer Tools,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+771655,1341576746,10280310.0,FIXED,critical,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+771817,1341651491,276489.0,FIXED,normal,P1,Webapp Runtime,All,0,bmcbride@mozilla.com,0,1,0,0,0
+771818,1341651713,2904978.0,FIXED,normal,P1,General,All,0,saneyuki.s.snyk@gmail.com,0,1,0,0,0
+771859,1341680161,1621357.0,FIXED,blocker,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+771877,1341701615,226463.0,FIXED,normal,P1,SocialAPI,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+771888,1341711036,4806950.0,FIXED,normal,P1,Page Info,All,0,atte.kemppila@iki.fi,3,0,0,0,1
+771979,1341779216,2094925.0,FIXED,normal,P1,General,All,0,ttaubert@mozilla.com,0,1,0,0,0
+771980,1341780295,319710.0,FIXED,normal,P1,SocialAPI,All,1,gavin.sharp@gmail.com,0,1,0,0,0
+771992,1341790375,260928.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+772044,1341806103,727.0,FIXED,normal,P1,Build Config,Windows 8 Metro,0,jmathies@mozilla.com,0,1,0,0,0
+772228,1341837331,1277474.0,FIXED,minor,P1,Panorama,All,0,miles@userbound.com,1,0,1,0,0
+772319,1341854903,7665601.0,FIXED,normal,P1,Menus,All,0,saneyuki.s.snyk@gmail.com,1,0,1,0,0
+772460,1341900885,90947.0,FIXED,normal,P1,General,All,0,ananuti@gmail.com,0,1,0,0,0
+772463,1341901193,582825.0,FIXED,normal,P1,General,All,0,ananuti@gmail.com,0,1,0,0,0
+772600,1341916133,473962.0,FIXED,normal,P1,Web Apps,All,0,dwalkowski@mozilla.com,0,1,0,0,0
+772638,1341921357,525595.0,FIXED,normal,P1,Web Apps,All,1,myk@mozilla.org,2,0,0,1,0
+772981,1342001213,202609.0,FIXED,normal,P1,General,All,0,nfroyd@mozilla.com,0,1,0,0,0
+773161,1342044630,5456246.0,FIXED,normal,P3,Developer Tools: Console,Mac OS X,0,mratcliffe@mozilla.com,0,1,0,0,0
+773164,1342045216,438868.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+773174,1342049976,359271.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+773185,1342052348,5178565.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+773225,1342060067,349169.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+773227,1342060173,3847155.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+773254,1342067741,341499.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+773267,1342070097,7730301.0,FIXED,normal,P1,Downloads Panel,Linux,0,mconley@mozilla.com,0,1,0,0,0
+773345,1342081851,327393.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+773347,1342082311,3824416.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+773397,1342089430,2858590.0,FIXED,normal,P1,PDF Viewer,All,1,bdahl@mozilla.com,0,1,0,0,0
+773422,1342093196,159761.0,FIXED,normal,P1,PDF Viewer,Mac OS X,0,bdahl@mozilla.com,0,1,0,0,0
+773466,1342098304,477102.0,FIXED,normal,P2,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+773529,1342112992,90774.0,FIXED,normal,P1,SocialAPI,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+773530,1342113407,227029.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+773565,1342136999,3769803.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+773653,1342159355,601699.0,FIXED,normal,P3,Developer Tools: Debugger,Mac OS X,0,vporof@mozilla.com,0,1,0,0,0
+773706,1342166794,15302.0,FIXED,normal,P1,Build Config,Linux,0,myk@mozilla.org,0,1,0,0,0
+773732,1342171408,3735901.0,FIXED,normal,P3,Developer Tools: Debugger,All,1,vporof@mozilla.com,3,0,0,0,1
+773784,1342178983,631917.0,FIXED,normal,P1,Web Apps,All,0,myk@mozilla.org,2,0,0,1,0
+773982,1342258047,10705990.0,FIXED,normal,P4,Bookmarks & History,All,0,mak77@bonardo.net,0,1,0,0,0
+774009,1342283230,6662616.0,FIXED,normal,P1,Tabbed Browser,All,0,dao@mozilla.com,0,1,0,0,0
+774027,1342290293,118918.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+774057,1342314694,94513.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+774142,1342368415,2112312.0,FIXED,normal,P1,Web Apps,Linux,0,mar.castelluccio@studenti.unina.it,0,1,0,0,0
+774174,1342380005,1691870.0,FIXED,normal,P1,SocialAPI,Linux,0,jaws@mozilla.com,0,1,0,0,0
+774178,1342380287,41286.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+774506,1342446960,3593611.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+774509,1342447576,5533961.0,FIXED,normal,P1,General,All,0,mnoorenberghe+bmo@mozilla.com,0,1,0,0,0
+774543,1342452843,130767.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+774584,1342475643,2232028.0,FIXED,normal,P1,Build Config,All,0,ewong@pw-wspx.org,0,1,0,0,0
+774613,1342490531,1209071.0,FIXED,normal,P1,Developer Tools,Mac OS X,1,odvarko@gmail.com,0,1,0,0,0
+774620,1342492900,183268.0,FIXED,normal,P1,Theme,All,0,ananuti@gmail.com,0,1,0,0,0
+774660,1342503936,172182.0,FIXED,normal,P1,Preferences,All,0,saurabhanandiit@gmail.com,0,1,0,0,0
+774725,1342511949,5905848.0,FIXED,normal,P1,Toolbars,Windows 7,0,jaws@mozilla.com,0,1,0,0,0
+774772,1342517430,134150.0,FIXED,critical,P1,Web Apps,All,0,mh+mozilla@glandium.org,0,1,0,0,0
+774788,1342518268,3388884.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+774801,1342519245,536784.0,FIXED,normal,P1,Downloads Panel,All,0,mak77@bonardo.net,2,0,0,1,0
+774808,1342519992,3387114.0,FIXED,normal,P1,Developer Tools,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+774811,1342520451,855474.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,0,1,0,0,0
+774963,1342543703,6790373.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+775031,1342572488,3334295.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+775050,1342579446,1294671.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+775072,1342586668,3080046.0,FIXED,normal,P1,Location Bar,All,0,bmcbride@mozilla.com,2,0,0,1,0
+775225,1342607025,152341.0,FIXED,normal,P1,General,All,0,ananuti@gmail.com,0,1,0,0,0
+775336,1342618026,669133.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,1,0,1,0,0
+775692,1342693206,142302.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,fayearthur@gmail.com,0,1,0,0,0
+775779,1342708198,1848481.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+775812,1342716681,505497.0,FIXED,normal,P1,Developer Tools: Console,All,0,thaddee.tyl@gmail.com,0,1,0,0,0
+775987,1342765980,5780722.0,FIXED,normal,P1,Developer Tools,All,0,scrapmachines@gmail.com,0,1,0,0,0
+776135,1342789561,542649.0,FIXED,normal,P1,SocialAPI,Windows 7,0,jaws@mozilla.com,0,1,0,0,0
+776189,1342803046,581609.0,FIXED,normal,P1,SocialAPI,All,0,jgriffin@mozilla.com,0,1,0,0,0
+776254,1342856832,365004.0,FIXED,normal,P1,General,All,0,paul@mozilla.com,0,1,0,0,0
+776293,1342882628,5151458.0,FIXED,normal,P1,Menus,All,0,sankha93@gmail.com,0,1,0,0,0
+776518,1343018892,150882.0,FIXED,normal,P1,Developer Tools,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+776554,1343025604,1698651.0,FIXED,normal,P1,SocialAPI,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+776606,1343033934,938045.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+776726,1343049547,253699.0,FIXED,normal,P1,SocialAPI,Mac OS X,0,mixedpuppy@gmail.com,0,1,0,0,0
+776773,1343057066,247429.0,FIXED,normal,P1,Tabbed Browser,Windows 7,0,dao@mozilla.com,1,0,1,0,0
+776875,1343097968,2808732.0,FIXED,normal,P1,Developer Tools,All,0,jwalker@mozilla.com,0,1,0,0,0
+776928,1343109603,10999934.0,FIXED,normal,P4,Tabbed Browser,All,2,ttaubert@mozilla.com,1,0,1,0,0
+777011,1343121928,2785273.0,FIXED,normal,P1,Developer Tools: Console,All,0,paul@mozilla.com,0,1,0,0,0
+777104,1343135926,167289.0,FIXED,normal,P1,SocialAPI,Mac OS X,0,mixedpuppy@gmail.com,0,1,0,0,0
+777165,1343141529,80667.0,FIXED,normal,P1,SocialAPI,All,0,dcamp@mozilla.com,0,1,0,0,0
+777175,1343142869,699973.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+777176,1343142953,2031147.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+777373,1343200148,513097.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,dcamp@mozilla.com,0,1,0,0,0
+777388,1343202467,2320907.0,FIXED,normal,P1,PDF Viewer,All,0,async.processingjs@yahoo.com,0,1,0,0,0
+777463,1343211831,60343.0,FIXED,critical,P1,Menus,Windows 7,0,jaws@mozilla.com,2,0,0,1,0
+777569,1343227657,1215389.0,FIXED,normal,P1,Developer Tools,Windows 7,0,jaws@mozilla.com,0,1,0,0,0
+777923,1343304926,188519.0,FIXED,normal,P1,SocialAPI,All,0,gavin.sharp@gmail.com,1,0,1,0,0
+778392,1343412722,342388.0,FIXED,normal,P1,General,Mac OS X,0,saneyuki.s.snyk@gmail.com,0,1,0,0,0
+778597,1343576769,418839.0,FIXED,normal,P1,Developer Tools: Console,Mac OS X,0,mihai.sucan@gmail.com,0,1,0,0,0
+778732,1343627636,369143.0,FIXED,normal,P1,Developer Tools: Console,All,0,rcampbell@mozilla.com,0,1,0,0,0
+778855,1343644394,88935.0,FIXED,normal,P1,Phishing Protection,All,0,dolske@mozilla.com,0,1,0,0,0
+779054,1343682803,5650844.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+779223,1343725890,6852393.0,FIXED,normal,P1,Downloads Panel,All,0,mconley@mozilla.com,0,1,0,0,0
+779360,1343746911,1776412.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+779415,1343769283,1116375.0,FIXED,normal,P1,Developer Tools: Console,All,0,thaddee.tyl@gmail.com,0,1,0,0,0
+779641,1343823526,173333.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+779642,1343823854,2342965.0,FIXED,normal,P2,Developer Tools: Scratchpad,All,0,markcapella@twcny.rr.com,0,1,0,0,0
+779732,1343857528,3643298.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+779923,1343896866,1980270.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+780010,1343914070,1963122.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+780528,1344180746,1118829.0,FIXED,normal,P1,Webapp Runtime,Linux,0,mar.castelluccio@studenti.unina.it,0,1,0,0,0
+780530,1344180798,1118781.0,FIXED,normal,P1,Webapp Runtime,Linux,0,mar.castelluccio@studenti.unina.it,0,1,0,0,0
+780594,1344225015,3225790.0,FIXED,normal,P1,General,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+780763,1344261737,58135.0,FIXED,normal,P1,SocialAPI,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+780791,1344269974,1176751.0,FIXED,normal,P1,Developer Tools: Console,All,0,thaddee.tyl@gmail.com,0,1,0,0,0
+780987,1344338756,1723996.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+781090,1344370594,1152933.0,FIXED,normal,P1,Disability Access,Mac OS X,0,hub@mozilla.com,2,0,0,1,0
+781122,1344389659,1150502.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,abhishekp.bugzilla@gmail.com,0,1,0,0,0
+781291,1344418797,1901379.0,FIXED,normal,P1,Developer Tools,Linux,0,ananuti@gmail.com,0,1,0,0,0
+781327,1344425689,4523198.0,FIXED,normal,P1,Theme,Mac OS X,0,fryn@frankyan.com,0,1,0,0,0
+781386,1344438202,118470.0,FIXED,normal,P1,SocialAPI,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+781515,1344489513,3612326.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+781588,1344503336,3782037.0,FIXED,normal,P1,Tabbed Browser,All,0,jaws@mozilla.com,0,1,0,0,0
+781617,1344508516,3741663.0,FIXED,normal,P1,Location Bar,All,1,mak77@bonardo.net,0,1,0,0,0
+781772,1344565469,2935415.0,FIXED,normal,P1,Developer Tools: Inspector,Windows 7,0,scrapmachines@gmail.com,0,1,0,0,0
+781786,1344573134,1464585.0,FIXED,normal,P3,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+781797,1344576697,4725119.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,anton@mozilla.com,1,0,1,0,0
+781808,1344578130,721453.0,FIXED,normal,P1,Build Config,Linux,0,shlomif@shlomifish.org,0,1,0,0,0
+781973,1344607662,3677648.0,FIXED,normal,P1,General,All,0,andres@appcoast.com,0,1,0,0,0
+781974,1344607818,6730691.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,jaws@mozilla.com,0,1,0,0,0
+782171,1344791039,225827.0,FIXED,normal,P1,Web Apps,All,0,mar.castelluccio@studenti.unina.it,0,1,0,0,0
+782287,1344838791,120749.0,FIXED,normal,P1,SocialAPI,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+782468,1344871397,1005850.0,FIXED,normal,P1,SocialAPI,Windows 7,0,felipc@gmail.com,0,1,0,0,0
+782653,1344922939,4899219.0,FIXED,normal,P1,Developer Tools: Console,Mac OS X,0,scrapmachines@gmail.com,0,1,0,0,0
+782706,1344933943,6045012.0,FIXED,critical,P1,Extension Compatibility,Windows 7,1,denis.rotnov@gmail.com,2,0,0,1,0
+782739,1344938434,110736.0,FIXED,normal,P1,Tabbed Browser,All,0,masayuki@d-toybox.com,1,0,1,0,0
+782779,1344946291,3751343.0,FIXED,trivial,P1,Panorama,All,0,pascalc@gmail.com,0,1,0,0,0
+782793,1344947780,2081745.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+782820,1344951107,955915.0,FIXED,trivial,P1,Developer Tools: Console,All,0,jfengler4@gmail.com,0,1,0,0,0
+782877,1344976377,4156151.0,FIXED,normal,P1,Developer Tools: Debugger,Mac OS X,0,vporof@mozilla.com,0,1,0,0,0
+782882,1344980578,6154559.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,3,0,0,0,1
+782890,1344986067,3280820.0,FIXED,normal,P1,General,All,1,mh+mozilla@glandium.org,0,1,0,0,0
+783025,1345021061,2099641.0,FIXED,normal,P1,General,All,0,amod.narvekar@gmail.com,0,1,0,0,0
+783241,1345090257,20848.0,FIXED,normal,P1,Theme,All,0,bhearsum@mozilla.com,0,1,0,0,0
+783273,1345095657,4188200.0,FIXED,normal,P1,Bookmarks & History,Mac OS X,0,dao@mozilla.com,0,1,0,0,0
+783393,1345122767,679942.0,FIXED,normal,P1,Developer Tools: Debugger,Mac OS X,1,past@mozilla.com,0,1,0,0,0
+783410,1345126867,750302.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+783605,1345192697,4209513.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+783614,1345194044,375032.0,FIXED,minor,P1,Location Bar,All,0,dao@mozilla.com,0,1,0,0,0
+783687,1345205645,3505612.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+783691,1345206349,333924.0,FIXED,normal,P1,SocialAPI,Mac OS X,0,mixedpuppy@gmail.com,0,1,0,0,0
+783709,1345212333,155970.0,FIXED,normal,P1,Web Apps,All,0,myk@mozilla.org,0,1,0,0,0
+783729,1345224097,6632904.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+783810,1345288902,1031049.0,FIXED,normal,P3,Developer Tools: Debugger,Windows XP,0,vporof@mozilla.com,0,1,0,0,0
+783847,1345316727,810359.0,FIXED,normal,P1,Webapp Runtime,Windows 7,0,ewong@pw-wspx.org,0,1,0,0,0
+783858,1345329992,6397092.0,FIXED,normal,P2,Developer Tools: Scratchpad,All,0,anton@mozilla.com,0,1,0,0,0
+783928,1345395152,291300.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+783971,1345420659,899471.0,FIXED,normal,P1,Developer Tools,Windows 7,0,mratcliffe@mozilla.com,0,1,0,0,0
+784153,1345464195,367343.0,FIXED,normal,P1,SocialAPI,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+784198,1345472059,214400.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+784236,1345482270,1603745.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+784238,1345482389,394754.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+784272,1345501063,524534.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+784313,1345520920,48038.0,FIXED,normal,P1,Theme,All,0,ananuti@gmail.com,0,1,0,0,0
+784508,1345552502,1167675.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+784535,1345556267,484297.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+784621,1345591249,95430.0,FIXED,normal,P1,General,Linux,0,dao@mozilla.com,0,1,0,0,0
+784842,1345641769,337427.0,FIXED,major,P1,General,Linux,0,netzen@gmail.com,0,1,0,0,0
+785015,1345680527,5454683.0,FIXED,trivial,P1,General,All,0,xabolcs@maffia.hu,0,1,0,0,0
+785044,1345694748,2572183.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,anton@mozilla.com,0,1,0,0,0
+785205,1345720132,258954.0,FIXED,normal,P1,SocialAPI,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+785335,1345766959,140293.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,dcamp@mozilla.com,0,1,0,0,0
+785380,1345784039,122935.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,dcamp@mozilla.com,3,0,0,0,1
+785387,1345786495,120727.0,FIXED,normal,P1,Developer Tools: Console,Mac OS X,0,mihai.sucan@gmail.com,0,1,0,0,0
+785415,1345792859,209080.0,FIXED,normal,P1,Developer Tools: Console,Linux,0,abhishekp.bugzilla@gmail.com,0,1,0,0,0
+785436,1345796480,80616.0,FIXED,normal,P1,Tabbed Browser,All,0,mh+mozilla@glandium.org,0,1,0,0,0
+785466,1345803020,542920.0,FIXED,trivial,P1,Developer Tools: Debugger,All,0,jimb@mozilla.com,0,1,0,0,0
+785650,1345895260,1605576.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+785676,1345924181,1319764.0,FIXED,normal,P1,SocialAPI,Windows XP,0,mixedpuppy@gmail.com,0,1,0,0,0
+785688,1345939310,380915.0,FIXED,trivial,P1,Developer Tools: Console,All,0,abhishekp.bugzilla@gmail.com,0,1,0,0,0
+785689,1345939397,1561341.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+785697,1345954261,366037.0,FIXED,trivial,P1,Developer Tools: Console,All,0,ravicat2013@gmail.com,0,1,0,0,0
+785714,1345962392,357891.0,FIXED,normal,P1,Developer Tools: Console,All,0,ananuti@gmail.com,0,1,0,0,0
+785715,1345963461,1267490.0,FIXED,normal,P1,Developer Tools,All,0,saneyuki.s.snyk@gmail.com,0,1,0,0,0
+785883,1346047714,1453049.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+785889,1346048481,1452270.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+785903,1346050243,3082277.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,hrach.cz@gmail.com,0,1,0,0,0
+785920,1346053586,4085511.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+785951,1346057453,972082.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+785954,1346057704,262204.0,FIXED,normal,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+786070,1346072975,3749174.0,FIXED,normal,P3,Developer Tools: Debugger,Linux,0,anton@mozilla.com,0,1,0,0,0
+786085,1346074940,216446.0,FIXED,normal,P1,SocialAPI,Windows XP,0,mhammond@skippinet.com.au,0,1,0,0,0
+786095,1346077066,2786835.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+786164,1346100256,331422.0,FIXED,trivial,P1,Session Restore,All,0,ananuti@gmail.com,0,1,0,0,0
+786169,1346101976,1398962.0,FIXED,normal,P2,Developer Tools: Debugger,Windows 7,0,past@mozilla.com,0,1,0,0,0
+786207,1346118519,881966.0,FIXED,normal,P1,SocialAPI,Mac OS X,0,mixedpuppy@gmail.com,0,1,0,0,0
+786219,1346123972,167624.0,FIXED,normal,P1,PDF Viewer,Mac OS X,0,saneyuki.s.snyk@gmail.com,0,1,0,0,0
+786418,1346150485,849902.0,FIXED,normal,P1,General,All,0,andres@appcoast.com,0,1,0,0,0
+786477,1346160910,270487.0,FIXED,normal,P1,SocialAPI,Mac OS X,0,mixedpuppy@gmail.com,0,1,0,0,0
+786495,1346163892,494490.0,FIXED,normal,P1,Tabbed Browser,All,0,dao@mozilla.com,1,0,1,0,0
+786509,1346167637,178292.0,FIXED,minor,P1,Developer Tools: Debugger,All,0,jimb@mozilla.com,0,1,0,0,0
+786593,1346200181,91251.0,FIXED,major,P1,Tabbed Browser,All,0,dao@mozilla.com,1,0,1,0,0
+786619,1346207176,604489.0,FIXED,normal,P1,Developer Tools: Inspector,Windows 7,0,paul@mozilla.com,0,1,0,0,0
+786658,1346217919,774411.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+786662,1346218408,5531045.0,FIXED,normal,P1,Downloads Panel,Windows 7,0,mconley@mozilla.com,0,1,0,0,0
+786711,1346225867,1702625.0,FIXED,normal,P1,Developer Tools: Debugger,Mac OS X,0,past@mozilla.com,0,1,0,0,0
+786803,1346239540,3435260.0,FIXED,normal,P1,Developer Tools,Linux,0,mratcliffe@mozilla.com,0,1,0,0,0
+786897,1346256783,743717.0,FIXED,normal,P1,Private Browsing,All,0,laden@csclub.uwaterloo.ca,0,1,0,0,0
+787093,1346309048,162346.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,1,0,1,0,0
+787181,1346323343,1298335.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+787182,1346323401,3446455.0,FIXED,normal,P1,General,All,0,nobody@mozilla.org,2,0,0,1,0
+787272,1346339331,661134.0,FIXED,normal,P1,SocialAPI,Mac OS X,0,mixedpuppy@gmail.com,0,1,0,0,0
+787274,1346339837,3062502.0,FIXED,normal,P1,Theme,All,0,roc@ocallahan.org,0,1,0,0,0
+787275,1346340396,526408.0,FIXED,normal,P1,Location Bar,All,0,dao@mozilla.com,0,1,0,0,0
+787511,1346406002,1128496.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+787820,1346575924,958553.0,FIXED,normal,P1,File Handling,Windows 7,0,async.processingjs@yahoo.com,0,1,0,0,0
+787981,1346663577,6481310.0,FIXED,normal,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+788215,1346750297,2924472.0,FIXED,normal,P1,Developer Tools: Console,Windows 7,0,jwalker@mozilla.com,0,1,0,0,0
+788368,1346775792,8433505.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+788405,1346792577,658272.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+788431,1346803229,9243406.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+788486,1346818153,412773.0,FIXED,normal,P2,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+788598,1346835278,2401847.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+788754,1346847108,2454638.0,FIXED,normal,P3,Developer Tools: Debugger,Mac OS X,0,fitzgen@gmail.com,0,1,0,0,0
+788769,1346847359,1419565.0,FIXED,normal,P1,Developer Tools: Debugger,Mac OS X,0,anton@mozilla.com,0,1,0,0,0
+788977,1346890780,7429081.0,FIXED,normal,P1,Developer Tools,All,0,jwalker@mozilla.com,0,1,0,0,0
+789003,1346895518,1923885.0,FIXED,normal,P1,Session Restore,All,0,ttaubert@mozilla.com,0,1,0,0,0
+789007,1346896234,399327.0,FIXED,normal,P1,Theme,Linux,0,dao@mozilla.com,1,0,1,0,0
+789010,1346896989,50994.0,FIXED,normal,P1,General,All,0,dao@mozilla.com,1,0,1,0,0
+789079,1346915040,380612.0,FIXED,normal,P1,Tabbed Browser,All,0,dao@mozilla.com,1,0,1,0,0
+789094,1346917593,3014356.0,FIXED,normal,P1,Developer Tools: Style Editor,All,0,marioalv.mozilla@gmail.com,0,1,0,0,0
+789248,1346930034,70438.0,FIXED,normal,P1,SocialAPI,Mac OS X,0,mixedpuppy@gmail.com,0,1,0,0,0
+789360,1346951131,134857.0,FIXED,normal,P1,Developer Tools: Debugger,Windows 7,0,jmathies@mozilla.com,0,1,0,0,0
+789364,1346952174,2180340.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,fayearthur@gmail.com,0,1,0,0,0
+789469,1346997758,8577071.0,FIXED,normal,P1,General,Windows 7,0,mh+mozilla@glandium.org,0,1,0,0,0
+789529,1347008859,8457935.0,FIXED,normal,P1,General,Windows 7,0,jmathies@mozilla.com,0,1,0,0,0
+789578,1347017782,910717.0,FIXED,normal,P1,Developer Tools: Inspector,Windows 7,0,scrapmachines@gmail.com,0,1,0,0,0
+789859,1347221330,313175.0,FIXED,normal,P1,SocialAPI,Windows 7,0,mhammond@skippinet.com.au,0,1,0,0,0
+789937,1347255641,245209.0,FIXED,normal,P1,Developer Tools: Inspector,All,1,paul@mozilla.com,0,1,0,0,0
+790112,1347288786,1872279.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+790178,1347323833,7268065.0,FIXED,normal,P1,General,All,0,nobody@mozilla.org,0,1,0,0,0
+790201,1347334338,3214939.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+790202,1347335323,1049356.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+790213,1347337374,1432480.0,FIXED,normal,P1,General,All,0,margaret.leibovic@gmail.com,3,0,0,0,1
+790216,1347337608,3933983.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+790227,1347338968,1962883.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,scrapmachines@gmail.com,0,1,0,0,0
+790272,1347346255,2328477.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,scrapmachines@gmail.com,0,1,0,0,0
+790278,1347346992,119579.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+790422,1347365885,1793028.0,FIXED,normal,P1,General,Windows 8 Metro,0,jmathies@mozilla.com,0,1,0,0,0
+790488,1347378487,156023.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,1,0,1,0,0
+790489,1347378579,1332652.0,FIXED,normal,P1,General,All,0,raymond@appcoast.com,0,1,0,0,0
+790545,1347404611,2248203.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+790553,1347407473,1725065.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,2,0,0,1,0
+790556,1347407992,3863605.0,FIXED,normal,P2,Developer Tools: Debugger,Linux,0,vporof@mozilla.com,0,1,0,0,0
+790650,1347432714,1638292.0,FIXED,normal,P3,Developer Tools: Debugger,All,1,vporof@mozilla.com,0,1,0,0,0
+790752,1347453072,7191274.0,FIXED,normal,P1,Tabbed Browser,All,1,bellindira@appcoast.com,1,0,1,0,0
+790891,1347493323,128361.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+790952,1347513502,753447.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+791123,1347545532,7334006.0,FIXED,normal,P1,General,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+791323,1347615070,6402281.0,FIXED,normal,P2,Developer Tools: Debugger,Windows 7,0,vporof@mozilla.com,0,1,0,0,0
+791447,1347672184,6875766.0,FIXED,blocker,P1,General,All,0,mak77@bonardo.net,1,0,1,0,0
+791569,1347787322,2144190.0,FIXED,normal,P1,Downloads Panel,All,0,mconley@mozilla.com,0,1,0,0,0
+791669,1347856085,410820.0,FIXED,normal,P1,Tabbed Browser,All,0,ttaubert@mozilla.com,1,0,1,0,0
+791694,1347860616,7606170.0,FIXED,normal,P1,Shell Integration,Windows 7,0,mh+mozilla@glandium.org,0,1,0,0,0
+791901,1347899422,647173.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,3,0,0,0,1
+791981,1347932696,193214.0,FIXED,normal,P1,General,Windows 7,1,cbook@mozilla.com,0,1,0,0,0
+792030,1347944536,673120.0,FIXED,normal,P1,Developer Tools: Console,All,0,raymond@appcoast.com,0,1,0,0,0
+792043,1347946885,5209746.0,FIXED,normal,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+792049,1347947348,5209372.0,FIXED,normal,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+792054,1347948378,4046247.0,FIXED,normal,P1,General,All,0,dao@mozilla.com,0,1,0,0,0
+792062,1347949589,7922604.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+792295,1347990880,259390.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+792387,1348026983,122266.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,dcamp@mozilla.com,0,1,0,0,0
+792503,1348047685,1960318.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+792517,1348050309,1233162.0,FIXED,normal,P1,File Handling,Linux,0,josh@joshmatthews.net,0,1,0,0,0
+792528,1348051401,1145024.0,FIXED,normal,P1,Developer Tools: Style Editor,Linux,0,josh@joshmatthews.net,0,1,0,0,0
+792533,1348052012,645649.0,FIXED,normal,P1,Developer Tools: Console,Linux,0,scrapmachines@gmail.com,0,1,0,0,0
+792582,1348057398,1463037.0,FIXED,normal,P1,PDF Viewer,Linux,0,josh@joshmatthews.net,0,1,0,0,0
+792677,1348087948,537126.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+792968,1348139438,278351.0,FIXED,normal,P1,General,All,0,yosy101@gmail.com,0,1,0,0,0
+793031,1348150545,4801953.0,FIXED,normal,P2,Developer Tools: Scratchpad,All,1,johan.charlez@gmail.com,0,1,0,0,0
+793036,1348152544,349784.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+793214,1348213234,4931608.0,FIXED,normal,P2,Developer Tools: Debugger,Windows Vista,0,past@mozilla.com,0,1,0,0,0
+793338,1348239447,956863.0,FIXED,normal,P1,General,All,0,dkeeler@mozilla.com,0,1,0,0,0
+793375,1348270789,3979781.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+793672,1348459499,1060575.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,mh+mozilla@glandium.org,0,1,0,0,0
+793725,1348468205,229467.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+793915,1348500486,124698.0,FIXED,normal,P1,Theme,Mac OS X,0,fryn@frankyan.com,0,1,0,0,0
+793935,1348503954,121181.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+793943,1348506322,118746.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+793947,1348510444,222317.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+794101,1348554119,71134.0,FIXED,normal,P1,PDF Viewer,All,0,ryanvm@gmail.com,0,1,0,0,0
+794394,1348618190,79496.0,FIXED,normal,P1,Developer Tools: Scratchpad,All,0,paul@mozilla.com,0,1,0,0,0
+794512,1348645908,65233.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+794640,1348663542,1804081.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+794742,1348695235,116282.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+794823,1348708239,3542320.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+794887,1348715111,417439.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+794898,1348718149,2442764.0,FIXED,normal,P2,Developer Tools: Scratchpad,Mac OS X,0,anton@mozilla.com,0,1,0,0,0
+795009,1348733525,399019.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+795015,1348734675,289512.0,FIXED,normal,P1,Private Browsing,Windows 7,0,ehsan@mozilla.com,0,1,0,0,0
+795043,1348738186,4461891.0,FIXED,normal,P1,Developer Tools,All,0,hubert.sablonniere@gmail.com,0,1,0,0,0
+795176,1348761223,1060918.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,leonard.camacho@gmail.com,0,1,0,0,0
+795263,1348796975,1333993.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+795268,1348797546,6751125.0,FIXED,normal,P2,Developer Tools,Mac OS X,0,anton@mozilla.com,0,1,0,0,0
+795481,1348836248,1964592.0,FIXED,normal,P1,SocialAPI,All,0,nobody@mozilla.org,0,1,0,0,0
+795647,1348927435,4729.0,FIXED,normal,P1,Installer,Windows 7,0,robert.bugzilla@gmail.com,2,0,0,1,0
+795834,1349050599,1519983.0,FIXED,major,P1,PDF Viewer,Windows 7,0,async.processingjs@yahoo.com,0,1,0,0,0
+795969,1349078869,3793840.0,FIXED,normal,P2,Developer Tools: Debugger,Windows Vista,0,past@mozilla.com,0,1,0,0,0
+795982,1349079333,21403.0,FIXED,normal,P1,Installer,Windows 7,0,catlee@mozilla.com,0,1,0,0,0
+796006,1349082218,6964303.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,dcamp@mozilla.com,0,1,0,0,0
+796029,1349084054,590698.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+796038,1349084529,865590.0,FIXED,normal,P1,Shell Integration,Windows 8,0,netzen@gmail.com,0,1,0,0,0
+796044,1349084999,1008765.0,FIXED,normal,P1,Shell Integration,Windows 8,0,netzen@gmail.com,2,0,0,1,0
+796054,1349086052,75202.0,FIXED,normal,P1,Installer,All,0,robert.bugzilla@gmail.com,0,1,0,0,0
+796073,1349087295,1129209.0,FIXED,major,P1,Developer Tools: Debugger,All,0,jimb@mozilla.com,0,1,0,0,0
+796094,1349089385,515975.0,FIXED,normal,P1,Web Apps,Linux,0,mar.castelluccio@studenti.unina.it,0,1,0,0,0
+796135,1349093743,6361756.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+796148,1349094744,2176867.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+796218,1349104167,415959.0,FIXED,normal,P1,SocialAPI,All,0,felipc@gmail.com,0,1,0,0,0
+796222,1349104779,297414.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+796309,1349110433,291740.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+796929,1349156956,144852.0,FIXED,major,P1,Developer Tools,Mac OS X,0,mratcliffe@mozilla.com,0,1,0,0,0
+797044,1349170292,1496204.0,FIXED,normal,P1,Installer,Windows 8 Metro,0,netzen@gmail.com,2,0,0,1,0
+797065,1349172132,6874493.0,FIXED,normal,P2,Developer Tools: Scratchpad,Mac OS X,0,anton@mozilla.com,0,1,0,0,0
+797134,1349180506,102847.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+797157,1349182629,337663.0,FIXED,blocker,P1,Installer,Windows XP,0,robert.bugzilla@gmail.com,0,1,0,0,0
+797183,1349185836,876730.0,FIXED,normal,P1,Installer,Windows XP,0,robert.bugzilla@gmail.com,0,1,0,0,0
+797270,1349212937,88864.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,fayearthur@gmail.com,0,1,0,0,0
+797294,1349223397,1512182.0,FIXED,normal,P1,Developer Tools: Console,Linux,0,mihai.sucan@gmail.com,0,1,0,0,0
+797302,1349225510,1789744.0,FIXED,critical,P1,Phishing Protection,All,0,gpascutto@mozilla.com,2,0,0,1,0
+797334,1349238239,367010.0,FIXED,normal,P1,Theme,All,0,dao@mozilla.com,0,1,0,0,0
+797363,1349244580,686886.0,FIXED,normal,P1,General,All,0,dao@mozilla.com,0,1,0,0,0
+797404,1349249916,51823.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,3,0,0,0,1
+797430,1349253073,30265.0,FIXED,normal,P1,Bookmarks & History,All,0,saneyuki.s.snyk@gmail.com,0,1,0,0,0
+797677,1349293251,108891.0,FIXED,normal,P1,General,All,0,jruderman@gmail.com,0,1,0,0,0
+797716,1349306096,96121.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@skippinet.com.au,0,1,0,0,0
+797908,1349336545,338239.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+797973,1349343835,58389.0,FIXED,normal,P1,Installer,Windows 7,0,netzen@gmail.com,2,0,0,1,0
+798083,1349357685,2740477.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+798124,1349358642,1656368.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+798212,1349380628,271955.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+798237,1349387775,543831.0,FIXED,normal,P1,General,All,0,dkeeler@mozilla.com,0,1,0,0,0
+798255,1349395703,1529602.0,FIXED,normal,P1,Installer,Windows 7,0,robert.bugzilla@gmail.com,2,0,0,1,0
+798284,1349402308,272432.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+798458,1349427261,2429767.0,FIXED,normal,P1,Developer Tools: Console,Windows 7,0,jwalker@mozilla.com,0,1,0,0,0
+798477,1349429138,91136.0,FIXED,normal,P1,Installer,Windows 7,0,robert.bugzilla@gmail.com,3,0,0,0,1
+798508,1349432537,499097.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+798544,1349437900,82279.0,FIXED,normal,P1,Installer,Windows 7,0,robert.bugzilla@gmail.com,0,1,0,0,0
+798764,1349486895,1248636.0,FIXED,normal,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+798794,1349504899,445082.0,FIXED,normal,P1,Installer,Windows 7,0,robert.bugzilla@gmail.com,0,1,0,0,0
+798810,1349519340,887480.0,FIXED,normal,P1,Installer,Windows 7,1,robert.bugzilla@gmail.com,0,1,0,0,0
+798861,1349560728,371124.0,FIXED,normal,P1,Installer,Windows 7,0,robert.bugzilla@gmail.com,2,0,0,1,0
+798874,1349563502,2687082.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+798925,1349581979,3543251.0,FIXED,normal,P1,General,All,0,jaws@mozilla.com,0,1,0,0,0
+798944,1349597664,465058.0,FIXED,minor,P1,Installer,Windows XP,0,robert.bugzilla@gmail.com,0,1,0,0,0
+798951,1349602444,1558371.0,FIXED,normal,P1,Developer Tools: Console,Windows XP,0,mihai.sucan@gmail.com,0,1,0,0,0
+798965,1349613978,146972.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+799001,1349636207,295268.0,FIXED,normal,P1,Private Browsing,All,0,ehsan@mozilla.com,0,1,0,0,0
+799057,1349656688,383123.0,FIXED,minor,P1,Installer,Windows 7,0,robert.bugzilla@gmail.com,0,1,0,0,0
+799126,1349679319,81593.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+799153,1349684286,2042805.0,FIXED,normal,P3,Developer Tools: Debugger,Gonk (Firefox OS),0,past@mozilla.com,2,0,0,1,0
+799180,1349688320,261700.0,FIXED,normal,P1,Installer,Windows Vista,0,robert.bugzilla@gmail.com,0,1,0,0,0
+799314,1349714431,1468080.0,FIXED,normal,P1,Private Browsing,Windows 7,0,josh@joshmatthews.net,0,1,0,0,0
+799323,1349718153,82474.0,FIXED,normal,P1,Developer Tools: Debugger,Windows 7,0,mh+mozilla@glandium.org,0,1,0,0,0
+799436,1349745605,7701.0,FIXED,normal,P1,Downloads Panel,All,0,gavin.sharp@gmail.com,2,0,0,1,0
+799447,1349749126,1313840.0,FIXED,normal,P1,SocialAPI,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+799462,1349755141,375793.0,FIXED,normal,P1,Developer Tools: Console,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+799498,1349761734,369191.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+799526,1349765589,242946.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+799664,1349783170,225311.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+799780,1349796808,211554.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+799784,1349797070,1338199.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,andres@appcoast.com,0,1,0,0,0
+799902,1349837281,3078318.0,FIXED,normal,P1,Installer,All,0,robert.bugzilla@gmail.com,0,1,0,0,0
+799929,1349844626,498887.0,FIXED,normal,P1,Downloads Panel,Mac OS X,0,mconley@mozilla.com,0,1,0,0,0
+800112,1349867912,164255.0,FIXED,major,P1,Installer,Windows 8,0,robert.bugzilla@gmail.com,0,1,0,0,0
+800138,1349872597,5336993.0,FIXED,blocker,P1,Developer Tools: Debugger,All,1,jgriffin@mozilla.com,0,1,0,0,0
+800193,1349881204,2149817.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+800231,1349889686,1983678.0,FIXED,normal,P1,Developer Tools: Console,All,2,scrapmachines@gmail.com,0,1,0,0,0
+800275,1349907743,670503.0,FIXED,normal,P1,SocialAPI,All,0,nancibonfim@gmail.com,0,1,0,0,0
+800281,1349909031,230289.0,FIXED,normal,P1,SocialAPI,All,0,ananuti@gmail.com,0,1,0,0,0
+800307,1349917668,425761.0,FIXED,normal,P1,Preferences,Linux,0,robert.bugzilla@gmail.com,0,1,0,0,0
+800314,1349919220,3686792.0,FIXED,normal,P1,Downloads Panel,Linux,0,mconley@mozilla.com,0,1,0,0,0
+800346,1349929424,1927597.0,FIXED,normal,P1,Developer Tools,Windows 7,0,jwalker@mozilla.com,0,1,0,0,0
+800394,1349937859,82130.0,FIXED,normal,P1,Phishing Protection,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+800595,1349962411,4745263.0,FIXED,normal,P1,Build Config,All,0,l10n@mozilla.com,2,0,0,1,0
+800854,1350004702,89016.0,FIXED,normal,P1,Phishing Protection,All,0,ehsan@mozilla.com,0,1,0,0,0
+801035,1350034225,1837483.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+801040,1350034491,980527.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+801049,1350035693,307536.0,FIXED,normal,P1,Search,All,0,ehsan@mozilla.com,0,1,0,0,0
+801055,1350036518,978605.0,FIXED,normal,P1,Downloads Panel,Mac OS X,0,mconley@mozilla.com,0,1,0,0,0
+801068,1350038999,1031420.0,FIXED,normal,P1,General,All,0,dao@mozilla.com,0,1,0,0,0
+801080,1350041084,302008.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+801151,1350050225,89030.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+801224,1350065229,428536.0,FIXED,normal,P1,Untriaged,Mac OS X,0,bugs@junglecode.net,3,0,0,0,1
+801237,1350071576,271789.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+801387,1350177368,1679640.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+801450,1350216802,4427538.0,FIXED,normal,P1,Bookmarks & History,All,0,hsoft@hardcoded.net,0,1,0,0,0
+801661,1350280813,186955.0,FIXED,normal,P1,Preferences,Linux,0,ehsan@mozilla.com,0,1,0,0,0
+801823,1350300562,6497326.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,josh@joshmatthews.net,0,1,0,0,0
+801937,1350311673,423891.0,FIXED,normal,P1,Developer Tools: Scratchpad,All,0,anton@mozilla.com,0,1,0,0,0
+801951,1350313247,93591.0,FIXED,normal,P1,SocialAPI,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+801982,1350320473,415083.0,FIXED,normal,P1,Developer Tools: Scratchpad,All,0,anton@mozilla.com,0,1,0,0,0
+802013,1350332256,828583.0,FIXED,normal,P1,Developer Tools: Console,Linux,0,mihai.sucan@gmail.com,3,0,0,0,1
+802081,1350352474,1504575.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,1,0,1,0,0
+802274,1350379622,2372016.0,FIXED,normal,P1,Private Browsing,Linux,1,ehsan@mozilla.com,2,0,0,1,0
+802395,1350394325,155006.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+802421,1350397757,5757115.0,FIXED,normal,P1,General,All,0,dao@mozilla.com,0,1,0,0,0
+802435,1350400322,670047.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+802668,1350459106,119343.0,FIXED,normal,P1,General,Mac OS X,0,saneyuki.s.snyk@gmail.com,0,1,0,0,0
+802718,1350465062,84119.0,FIXED,normal,P1,General,Linux,0,graememcc_firefox@graeme-online.co.uk,0,1,0,0,0
+802784,1350471970,453613.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+803006,1350517983,106439.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+803067,1350534966,5337276.0,FIXED,normal,P1,Developer Tools,All,0,yura.zenevich@gmail.com,0,1,0,0,0
+803274,1350562649,77103.0,FIXED,normal,P1,Installer,Windows 7,0,robert.bugzilla@gmail.com,0,1,0,0,0
+803336,1350569605,768963.0,FIXED,major,P1,SocialAPI,Mac OS X,0,jaws@mozilla.com,0,1,0,0,0
+803344,1350570422,1011373.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+803546,1350625471,1596843.0,FIXED,normal,P1,Downloads Panel,Windows 7,0,mak77@bonardo.net,0,1,0,0,0
+803564,1350628001,92038.0,FIXED,normal,P1,Theme,Windows 7,0,dao@mozilla.com,0,1,0,0,0
+803644,1350641423,2143425.0,FIXED,normal,P1,PDF Viewer,All,0,async.processingjs@yahoo.com,0,1,0,0,0
+803775,1350668905,466258.0,FIXED,normal,P1,SocialAPI,Mac OS X,0,felipc@gmail.com,0,1,0,0,0
+803880,1350727373,198196.0,FIXED,normal,P1,Theme,Windows 7,0,dao@mozilla.com,0,1,0,0,0
+803933,1350762547,509093.0,FIXED,major,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+803948,1350778918,381986.0,FIXED,trivial,P1,Developer Tools,All,0,ananuti@gmail.com,2,0,0,1,0
+803964,1350790593,370261.0,FIXED,normal,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+803984,1350798952,3821333.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,rcampbell@mozilla.com,0,1,0,0,0
+803991,1350804170,356656.0,FIXED,normal,P1,Developer Tools: Console,Windows XP,0,mihai.sucan@gmail.com,0,1,0,0,0
+804068,1350858419,360410.0,FIXED,normal,P1,SocialAPI,All,0,alfredkayser@gmail.com,0,1,0,0,0
+804258,1350898980,682807.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+804400,1350917131,809930.0,FIXED,normal,P1,Developer Tools: Inspector,Linux,0,dev.nibo@gmail.com,0,1,0,0,0
+804416,1350920408,94870.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+804442,1350924794,90475.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+804526,1350953225,1831645.0,FIXED,normal,P3,PDF Viewer,Linux,0,async.processingjs@yahoo.com,0,1,0,0,0
+804575,1350967267,304337.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+804591,1350970824,1993406.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+804845,1351004877,4867353.0,FIXED,normal,P1,Developer Tools: Console,All,0,zmgmoz@gmail.com,0,1,0,0,0
+804910,1351020990,643453.0,FIXED,normal,P1,SocialAPI,Mac OS X,0,felipc@gmail.com,0,1,0,0,0
+805032,1351061501,9753.0,FIXED,blocker,P1,Installer,Windows 2000,0,netzen@gmail.com,0,1,0,0,0
+805260,1351088999,46301.0,FIXED,normal,P1,SocialAPI,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+805325,1351102793,79855.0,FIXED,normal,P1,General,All,0,dholbert@mozilla.com,0,1,0,0,0
+805381,1351127028,731278.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+805474,1351150740,431040.0,FIXED,normal,P1,Theme,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+805537,1351157387,1806831.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+805575,1351162011,587259.0,FIXED,normal,P1,Installer,Windows 7,0,lco@mozilla.com,0,1,0,0,0
+805639,1351170876,100549.0,FIXED,normal,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+805725,1351192412,26428.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+805759,1351212948,2329740.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+805885,1351243750,338022.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+805960,1351252563,496834.0,FIXED,normal,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+806037,1351271932,5480057.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+806038,1351274572,307280.0,FIXED,normal,P1,SocialAPI,Mac OS X,0,felipc@gmail.com,0,1,0,0,0
+806160,1351363873,494671.0,FIXED,normal,P2,Developer Tools: Debugger,Linux,0,past@mozilla.com,0,1,0,0,0
+806180,1351391188,536513.0,FIXED,major,P1,General,All,0,dao@mozilla.com,3,0,0,0,1
+806329,1351480869,1304022.0,FIXED,normal,P1,PDF Viewer,All,0,bdahl@mozilla.com,0,1,0,0,0
+806422,1351500069,722604.0,FIXED,normal,P1,Phishing Protection,All,0,gpascutto@mozilla.com,0,1,0,0,0
+806681,1351537858,684630.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+806682,1351537968,684510.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+806683,1351538056,801016.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,andres@appcoast.com,0,1,0,0,0
+806685,1351538223,1263614.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,andres@appcoast.com,0,1,0,0,0
+806686,1351538276,1276574.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,bellindira@appcoast.com,0,1,0,0,0
+806687,1351538358,1263542.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,bellindira@appcoast.com,0,1,0,0,0
+806688,1351538490,1895761.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,marioalv.mozilla@gmail.com,0,1,0,0,0
+806689,1351538584,800116.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+806690,1351538684,2937358.0,FIXED,normal,P1,Private Browsing,Mac OS X,1,bellindira@appcoast.com,0,1,0,0,0
+806691,1351538736,1425658.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,bellindira@appcoast.com,0,1,0,0,0
+806693,1351538823,1895417.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,andres@appcoast.com,0,1,0,0,0
+806694,1351538873,1376763.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,marioalv.mozilla@gmail.com,0,1,0,0,0
+806695,1351538910,1516908.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,marioalv.mozilla@gmail.com,0,1,0,0,0
+806697,1351539088,125058.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+806698,1351539250,903699.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+806699,1351539305,2011382.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,marioalv.mozilla@gmail.com,0,1,0,0,0
+806700,1351539353,1425005.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,andres@appcoast.com,0,1,0,0,0
+806701,1351539393,1516305.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,bellindira@appcoast.com,0,1,0,0,0
+806702,1351539442,2066318.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,bellindira@appcoast.com,0,1,0,0,0
+806703,1351539486,1280888.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,marioalv.mozilla@gmail.com,0,1,0,0,0
+806704,1351539747,2133117.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,marioalv.mozilla@gmail.com,0,1,0,0,0
+806705,1351539870,2697921.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,bellindira@appcoast.com,0,1,0,0,0
+806706,1351539933,798780.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+806707,1351539997,2972446.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,marioalv.mozilla@gmail.com,0,1,0,0,0
+806708,1351540067,3152706.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+806709,1351540170,902819.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+806711,1351540478,4034359.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,raymond@appcoast.com,0,1,0,0,0
+806715,1351540706,2840608.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,bellindira@appcoast.com,0,1,0,0,0
+806716,1351540729,3156059.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,bellindira@appcoast.com,0,1,0,0,0
+806717,1351540759,3162724.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,bellindira@appcoast.com,0,1,0,0,0
+806718,1351540776,3332051.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,bellindira@appcoast.com,0,1,0,0,0
+806719,1351540811,2132012.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,bellindira@appcoast.com,0,1,0,0,0
+806720,1351540830,2925394.0,FIXED,normal,P1,Private Browsing,Mac OS X,1,marioalv.mozilla@gmail.com,0,1,0,0,0
+806721,1351540844,902132.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+806722,1351540887,902076.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+806724,1351540934,3616511.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,marioalv.mozilla@gmail.com,0,1,0,0,0
+806725,1351540986,3782771.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,bellindira@appcoast.com,0,1,0,0,0
+806726,1351541002,5210766.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,bellindira@appcoast.com,0,1,0,0,0
+806731,1351541135,4033292.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,andres@appcoast.com,0,1,0,0,0
+806732,1351541150,3776464.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,marioalv.mozilla@gmail.com,0,1,0,0,0
+806733,1351541163,3926073.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,andres@appcoast.com,0,1,0,0,0
+806734,1351541197,123136.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+806735,1351541222,123100.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+806738,1351541367,3578432.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,marioalv.mozilla@gmail.com,0,1,0,0,0
+806739,1351541380,3229038.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,marioalv.mozilla@gmail.com,0,1,0,0,0
+806740,1351541391,3272297.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,marioalv.mozilla@gmail.com,0,1,0,0,0
+806741,1351541413,4466096.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,raymond@appcoast.com,0,1,0,0,0
+806742,1351541482,2452735.0,FIXED,normal,P1,Private Browsing,Mac OS X,1,andres@appcoast.com,0,1,0,0,0
+806744,1351541543,4722714.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,marioalv.mozilla@gmail.com,0,1,0,0,0
+806746,1351541634,3058448.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+806748,1351542273,314719.0,FIXED,normal,P2,Developer Tools: Debugger,Windows XP,0,vporof@mozilla.com,0,1,0,0,0
+806821,1351573279,283756.0,FIXED,normal,P1,Developer Tools: Console,All,0,jwalker@mozilla.com,0,1,0,0,0
+807217,1351627648,739715.0,FIXED,normal,P1,SocialAPI,All,1,mixedpuppy@gmail.com,0,1,0,0,0
+807274,1351655233,3462907.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,paul@mozilla.com,0,1,0,0,0
+807404,1351677436,113922.0,FIXED,normal,P1,Tabbed Browser,All,0,dao@mozilla.com,1,0,1,0,0
+807422,1351680303,1071162.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+807532,1351700399,48537.0,FIXED,normal,P1,SocialAPI,All,0,felipc@gmail.com,0,1,0,0,0
+807701,1351758878,579886.0,FIXED,trivial,P1,Menus,All,0,ananuti@gmail.com,0,1,0,0,0
+807709,1351760548,461990.0,FIXED,normal,P1,Downloads Panel,Linux,0,mconley@mozilla.com,0,1,0,0,0
+807756,1351767776,23571.0,FIXED,normal,P1,Developer Tools,Windows 7,0,jmathies@mozilla.com,0,1,0,0,0
+807935,1351824875,970479.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+807997,1351838702,3019547.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,3,0,0,0,1
+808001,1351839616,1710780.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,1,0,1,0,0
+808110,1351852823,3818.0,FIXED,normal,P1,Installer,All,0,netzen@gmail.com,2,0,0,1,0
+808171,1351859924,400847.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+808176,1351860658,478368.0,FIXED,normal,P1,Developer Tools: Console,All,0,jaws@mozilla.com,0,1,0,0,0
+808235,1351871589,1520011.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+808243,1351873032,305679.0,FIXED,normal,P1,SocialAPI,Windows 7,0,mhammond@mozilla.com,0,1,0,0,0
+808372,1351985163,1159715.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+808377,1351987258,147144.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+808422,1352023246,1970358.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+808484,1352068836,1374429.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+808501,1352072221,892189.0,FIXED,normal,P1,SocialAPI,All,0,jaws@mozilla.com,0,1,0,0,0
+808542,1352090532,3364863.0,FIXED,normal,P1,Developer Tools,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+808691,1352109734,442729.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+808720,1352113241,238072.0,FIXED,normal,P1,Installer,Windows XP,0,netzen@gmail.com,0,1,0,0,0
+808786,1352120875,431577.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+808980,1352164827,387615.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+808988,1352167907,384528.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+809001,1352171837,50661.0,FIXED,normal,P1,General,Windows 7,0,jmathies@mozilla.com,0,1,0,0,0
+809002,1352172062,380366.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+809022,1352180000,42299.0,FIXED,normal,P1,Downloads Panel,All,0,mak77@bonardo.net,0,1,0,0,0
+809258,1352213475,912338.0,FIXED,normal,P1,SocialAPI,Windows 7,0,mhammond@mozilla.com,0,1,0,0,0
+809274,1352216169,909467.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+809392,1352255978,296443.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+809694,1352305156,2903844.0,FIXED,normal,P1,SocialAPI,All,0,mixedpuppy@gmail.com,0,1,0,0,0
+809852,1352352991,1252861.0,FIXED,normal,P1,Downloads Panel,All,0,mconley@mozilla.com,0,1,0,0,0
+810101,1352385145,2997158.0,FIXED,normal,P1,Phishing Protection,Windows 7,0,aklotz@mozilla.com,0,1,0,0,0
+810107,1352385570,365922.0,FIXED,normal,P1,PDF Viewer,All,0,ryanvm@gmail.com,0,1,0,0,0
+810180,1352398302,2078506.0,FIXED,normal,P1,Private Browsing,Linux,1,ehsan@mozilla.com,0,1,0,0,0
+810340,1352446376,305194.0,FIXED,normal,P1,Downloads Panel,Mac OS X,0,mconley@mozilla.com,0,1,0,0,0
+810343,1352447040,32357.0,FIXED,normal,P1,Downloads Panel,Linux,0,mconley@mozilla.com,0,1,0,0,0
+810509,1352467742,50464.0,FIXED,normal,P1,Installer,All,0,robert.bugzilla@gmail.com,0,1,0,0,0
+810642,1352577214,174511.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+811102,1352726682,68580.0,FIXED,blocker,P1,SocialAPI,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+811120,1352729507,244818.0,FIXED,normal,P1,Installer,All,2,netzen@gmail.com,0,1,0,0,0
+811143,1352735065,229142.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+811247,1352770009,2088021.0,FIXED,normal,P1,SocialAPI,All,0,felipc@gmail.com,0,1,0,0,0
+811263,1352776340,1567484.0,FIXED,normal,P1,Downloads Panel,Windows 7,0,mconley@mozilla.com,0,1,0,0,0
+811282,1352784483,758250.0,FIXED,normal,P1,Developer Tools: Console,All,0,mihai.sucan@gmail.com,0,1,0,0,0
+811935,1352902698,145469.0,FIXED,normal,P1,Build Config,All,0,rail@mozilla.com,2,0,0,1,0
+812108,1352939241,1227496.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,3,0,0,0,1
+812221,1352970241,3185519.0,FIXED,normal,P1,Downloads Panel,Linux,0,shorlander@mozilla.com,0,1,0,0,0
+812343,1352986535,139131.0,FIXED,normal,P1,Downloads Panel,Windows 7,0,mconley@mozilla.com,0,1,0,0,0
+812345,1352986738,138940.0,FIXED,normal,P1,Downloads Panel,Windows 7,0,mconley@mozilla.com,0,1,0,0,0
+812362,1352990000,99268.0,FIXED,normal,P1,Developer Tools: Console,Mac OS X,0,mihai.sucan@gmail.com,0,1,0,0,0
+812682,1353077799,1089060.0,FIXED,normal,P1,Search,All,0,ewong3@gmail.com,0,1,0,0,0
+812782,1353130847,906573.0,FIXED,normal,P1,PDF Viewer,Windows 7,0,ryanvm@gmail.com,0,1,0,0,0
+812814,1353149135,868196.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+812823,1353155688,151486.0,FIXED,normal,P1,PDF Viewer,All,0,ryanvm@gmail.com,0,1,0,0,0
+812869,1353205005,812358.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+812962,1353270495,36522.0,FIXED,normal,P1,Developer Tools: Debugger,Mac OS X,0,vporof@mozilla.com,0,1,0,0,0
+813031,1353292479,2163118.0,FIXED,normal,P1,Developer Tools,All,0,jwalker@mozilla.com,0,1,0,0,0
+813172,1353311189,231489.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+813199,1353313993,228662.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,1,0,1,0,0
+813207,1353315073,45042.0,FIXED,normal,P1,Downloads Panel,Linux,0,mconley@mozilla.com,0,1,0,0,0
+813215,1353315585,1157736.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,marioalv.mozilla@gmail.com,0,1,0,0,0
+813316,1353329898,61715.0,FIXED,normal,P1,SocialAPI,Mac OS X,0,felipc@gmail.com,0,1,0,0,0
+813436,1353357326,636304.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+813471,1353374080,168586.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+813533,1353387391,107649.0,FIXED,normal,P1,Private Browsing,Mac OS X,1,josh@joshmatthews.net,0,1,0,0,0
+813587,1353394862,147838.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+813697,1353410547,132165.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+813789,1353423853,569766.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+813834,1353434292,732404.0,FIXED,normal,P1,SocialAPI,All,0,m_kato@ga2.so-net.ne.jp,0,1,0,0,0
+814099,1353492990,112849.0,FIXED,normal,P1,Downloads Panel,All,0,mconley@mozilla.com,0,1,0,0,0
+814255,1353515864,90085.0,FIXED,normal,P1,General,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+814264,1353517557,650903.0,FIXED,normal,P1,General,All,0,mak77@bonardo.net,0,1,0,0,0
+814269,1353518033,475560.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+814275,1353519411,575820.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,josh@joshmatthews.net,0,1,0,0,0
+814383,1353556313,392768.0,FIXED,normal,P1,General,Mac OS X,0,jfkthame@gmail.com,0,1,0,0,0
+814404,1353561894,1820559.0,FIXED,normal,P1,SocialAPI,Mac OS X,0,gavin.sharp@gmail.com,0,1,0,0,0
+814510,1353583749,2946649.0,FIXED,normal,P2,Downloads Panel,All,0,mconley@mozilla.com,0,1,0,0,0
+814513,1353584315,364672.0,FIXED,normal,P1,Private Browsing,Linux,0,josh@joshmatthews.net,0,1,0,0,0
+814592,1353627981,992287.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+814655,1353639524,845658.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+814705,1353652601,20196.0,FIXED,normal,P1,Preferences,Linux,0,ehsan@mozilla.com,0,1,0,0,0
+814749,1353665612,502601.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,andres@appcoast.com,0,1,0,0,0
+814838,1353724709,937534.0,FIXED,critical,P1,Extension Compatibility,Mac OS X,0,jorge@mozilla.com,2,0,0,1,0
+814844,1353729513,2317047.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+814890,1353753240,2485598.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,mratcliffe@mozilla.com,3,0,0,0,1
+814961,1353822627,934360.0,FIXED,normal,P1,Downloads Panel,All,0,mconley@mozilla.com,0,1,0,0,0
+815000,1353858573,236553.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+815042,1353876697,218512.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+815131,1353909496,328589.0,FIXED,normal,P1,Downloads Panel,All,0,alexbio2008@yahoo.com,0,1,0,0,0
+815229,1353922618,26359.0,FIXED,normal,P1,Private Browsing,Linux,0,josh@joshmatthews.net,0,1,0,0,0
+815246,1353924853,1530720.0,FIXED,normal,P1,Developer Tools,All,1,jwalker@mozilla.com,0,1,0,0,0
+815273,1353927606,240921.0,FIXED,normal,P1,Downloads Panel,Linux,0,mconley@mozilla.com,0,1,0,0,0
+815277,1353927826,89516.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+815291,1353929630,690469.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+815295,1353930244,1988924.0,FIXED,normal,P1,Downloads Panel,All,0,mconley@mozilla.com,2,0,0,1,0
+815352,1353934730,3094463.0,FIXED,normal,P1,Downloads Panel,All,0,andres@appcoast.com,1,0,1,0,0
+815678,1354005714,197633.0,FIXED,normal,P1,Downloads Panel,Windows 7,0,mconley@mozilla.com,0,1,0,0,0
+815691,1354006586,1752174.0,FIXED,normal,P1,Downloads Panel,Windows 7,0,enndeakin@gmail.com,0,1,0,0,0
+815718,1354010336,199280.0,FIXED,normal,P1,PDF Viewer,Mac OS X,0,bdahl@mozilla.com,0,1,0,0,0
+815941,1354041843,301994.0,FIXED,normal,P1,Downloads Panel,Linux,0,mconley@mozilla.com,0,1,0,0,0
+815961,1354047972,810670.0,FIXED,normal,P1,Tabbed Browser,All,0,dao@mozilla.com,1,0,1,0,0
+816197,1354099672,116816.0,FIXED,normal,P1,General,All,0,mnoorenberghe+bmo@mozilla.com,0,1,0,0,0
+816210,1354100842,519326.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+816406,1354133362,623191.0,FIXED,normal,P1,Tabbed Browser,All,0,ehsan@mozilla.com,1,0,1,0,0
+816440,1354147114,1308317.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+816524,1354172702,387854.0,FIXED,normal,P1,Session Restore,Mac OS X,1,andres@appcoast.com,0,1,0,0,0
+816527,1354173369,470819.0,FIXED,normal,P1,Private Browsing,Windows 7,0,ehsan@mozilla.com,1,0,1,0,0
+816548,1354175432,444965.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+816549,1354175461,444907.0,FIXED,normal,P1,Developer Tools: Debugger,Mac OS X,0,vporof@mozilla.com,0,1,0,0,0
+816569,1354177859,442448.0,FIXED,normal,P2,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+816596,1354180729,1274718.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+816858,1354224922,1230617.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,fayearthur@gmail.com,0,1,0,0,0
+816914,1354238965,466223.0,FIXED,trivial,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+816936,1354243884,324319.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+816983,1354256299,364138.0,FIXED,normal,P2,Developer Tools: Debugger,Mac OS X,0,vporof@mozilla.com,0,1,0,0,0
+817006,1354260272,1498474.0,FIXED,normal,P1,Downloads Panel,All,0,mconley@mozilla.com,0,1,0,0,0
+817292,1354342756,447994.0,FIXED,normal,P1,Session Restore,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+817337,1354369395,415836.0,FIXED,normal,P1,General,All,0,ehsan@mozilla.com,0,1,0,0,0
+817417,1354445514,83969.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+817422,1354446252,258954.0,FIXED,normal,P1,Menus,Windows 7,0,ehsan@mozilla.com,0,1,0,0,0
+817423,1354446594,82879.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+817425,1354449298,171048.0,FIXED,normal,P1,Developer Tools: Debugger,Windows Vista,0,vporof@mozilla.com,0,1,0,0,0
+817463,1354469594,6408.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+817472,1354472364,88205.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,andres@appcoast.com,0,1,0,0,0
+817537,1354504707,1541987.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+817539,1354505297,1541314.0,FIXED,normal,P1,Developer Tools,All,0,paul@mozilla.com,0,1,0,0,0
+817553,1354507856,1538824.0,FIXED,normal,P3,Developer Tools: Inspector,All,0,scrapmachines@gmail.com,0,1,0,0,0
+817558,1354509219,1537376.0,FIXED,normal,P3,Developer Tools: Inspector,All,0,scrapmachines@gmail.com,0,1,0,0,0
+817579,1354513819,941588.0,FIXED,normal,P2,Developer Tools,All,0,saneyuki.s.snyk@gmail.com,0,1,0,0,0
+817705,1354528358,1343846.0,FIXED,normal,P2,Developer Tools: Inspector,All,0,paul@mozilla.com,0,1,0,0,0
+817782,1354536925,219606.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,2,0,0,1,0
+817790,1354537748,151561.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+817879,1354548317,165004.0,FIXED,normal,P1,Developer Tools,Windows 7,0,jmathies@mozilla.com,0,1,0,0,0
+817924,1354556469,132758.0,FIXED,normal,P1,PDF Viewer,All,0,ryanvm@gmail.com,0,1,0,0,0
+817931,1354560500,35812.0,FIXED,normal,P1,Session Restore,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+817932,1354561154,3439.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+817948,1354568205,75929.0,FIXED,normal,P1,Tabbed Browser,All,0,ojab@ojab.ru,0,1,0,0,0
+817999,1354590550,122696.0,FIXED,normal,P1,General,All,0,mak77@bonardo.net,0,1,0,0,0
+818033,1354599649,1639115.0,FIXED,normal,P1,Developer Tools,All,0,fayearthur@gmail.com,0,1,0,0,0
+818189,1354616113,1180502.0,FIXED,normal,P1,Developer Tools,Windows 7,0,mamacdon@gmail.com,0,1,0,0,0
+818411,1354666814,1205402.0,FIXED,normal,P1,Developer Tools: Inspector,All,1,paul@mozilla.com,1,0,1,0,0
+818424,1354671648,1374925.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+818430,1354675167,780321.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+818434,1354676280,1195970.0,FIXED,normal,P2,Developer Tools,All,0,scrapmachines@gmail.com,0,1,0,0,0
+818436,1354677000,1195264.0,FIXED,normal,P2,Developer Tools,Linux,0,scrapmachines@gmail.com,0,1,0,0,0
+818447,1354678557,1368105.0,FIXED,normal,P2,Developer Tools,All,0,scrapmachines@gmail.com,0,1,0,0,0
+818459,1354682972,9814.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+818660,1354709445,337205.0,FIXED,normal,P1,General,All,0,debloper@gmail.com,3,0,0,0,1
+818884,1354770812,955855.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,past@mozilla.com,0,1,0,0,0
+819049,1354794038,780744.0,FIXED,normal,P1,Developer Tools: Debugger,All,0,jimb@mozilla.com,0,1,0,0,0
+819202,1354815949,650956.0,FIXED,normal,P1,Private Browsing,All,0,ehsan@mozilla.com,1,0,1,0,0
+819274,1354843978,299636.0,FIXED,major,P1,Private Browsing,All,0,ehsan@mozilla.com,0,1,0,0,0
+819283,1354845956,2183168.0,FIXED,trivial,P2,Downloads Panel,Mac OS X,0,mconley@mozilla.com,0,1,0,0,0
+819510,1354880544,1732651.0,FIXED,normal,P1,Private Browsing,Windows 7,1,bellindira@appcoast.com,0,1,0,0,0
+819907,1355114184,1381464.0,FIXED,normal,P1,Toolbars,All,0,ithinc@sohu.com,0,1,0,0,0
+819929,1355118650,963005.0,FIXED,normal,P2,Developer Tools,All,1,scrapmachines@gmail.com,1,0,1,0,0
+819945,1355120543,925991.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+819956,1355122879,87098.0,FIXED,normal,P1,Downloads Panel,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+819992,1355126239,180159.0,FIXED,normal,P1,General,All,0,jaws@mozilla.com,3,0,0,0,1
+820053,1355133296,141406.0,FIXED,normal,P1,Build Config,All,0,mh+mozilla@glandium.org,0,1,0,0,0
+820120,1355142290,67160.0,FIXED,normal,P1,Private Browsing,All,0,ehsan@mozilla.com,0,1,0,0,0
+820273,1355178442,127905.0,FIXED,normal,P1,SocialAPI,All,0,gavin.sharp@gmail.com,0,1,0,0,0
+820311,1355191469,855083.0,FIXED,normal,P3,Developer Tools: Debugger,All,0,vporof@mozilla.com,0,1,0,0,0
+820489,1355220494,628171.0,FIXED,normal,P1,SocialAPI,All,3,gavin.sharp@gmail.com,0,1,0,0,0
+820533,1355225441,241822.0,FIXED,normal,P1,Downloads Panel,All,0,mconley@mozilla.com,0,1,0,0,0
+820653,1355245983,761438.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+821141,1355332386,714195.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+821178,1355346130,567411.0,FIXED,normal,P1,Private Browsing,Mac OS X,1,andres@appcoast.com,0,1,0,0,0
+821328,1355384173,374554.0,FIXED,normal,P1,Bookmarks & History,All,0,mak77@bonardo.net,0,1,0,0,0
+821968,1355527399,192666.0,FIXED,normal,P1,Theme,All,0,debloper@gmail.com,1,0,1,0,0
+821971,1355528225,191829.0,FIXED,normal,P1,Theme,All,0,debloper@gmail.com,0,1,0,0,0
+822008,1355554761,19607.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,1,0,1,0,0
+822028,1355568812,303465.0,FIXED,normal,P2,Developer Tools: Inspector,All,0,vporof@mozilla.com,0,1,0,0,0
+822035,1355571024,1458124.0,FIXED,normal,P1,Private Browsing,Windows XP,0,josh@joshmatthews.net,0,1,0,0,0
+822068,1355587561,908074.0,FIXED,normal,P1,Tabbed Browser,All,0,ithinc@sohu.com,0,1,0,0,0
+822093,1355629819,1399433.0,FIXED,normal,P1,Private Browsing,All,0,andres@appcoast.com,0,1,0,0,0
+822097,1355634124,85799.0,FIXED,normal,P1,Developer Tools,Windows 7,0,mh+mozilla@glandium.org,0,1,0,0,0
+822244,1355722588,433375.0,FIXED,normal,P1,Downloads Panel,All,0,mconley@mozilla.com,0,1,0,0,0
+822257,1355724589,807051.0,FIXED,normal,P1,Bookmarks & History,Linux,0,mconley@mozilla.com,0,1,0,0,0
+822258,1355724680,430300.0,FIXED,normal,P1,Bookmarks & History,Windows 7,0,mconley@mozilla.com,0,1,0,0,0
+822284,1355727984,1301241.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,josh@joshmatthews.net,0,1,0,0,0
+822330,1355734745,420531.0,FIXED,normal,P1,Private Browsing,Windows 7,0,ehsan@mozilla.com,0,1,0,0,0
+822508,1355758918,154535.0,FIXED,normal,P1,SocialAPI,All,0,mhammond@mozilla.com,0,1,0,0,0
+822548,1355775039,138468.0,FIXED,normal,P1,General,All,0,cam@mcc.id.au,0,1,0,0,0
+822689,1355816499,28644.0,FIXED,normal,P1,Downloads Panel,All,0,mak77@bonardo.net,0,1,0,0,0
+822848,1355838405,913434.0,FIXED,normal,P1,Bookmarks & History,All,0,mak77@bonardo.net,0,1,0,0,0
+822914,1355848275,949701.0,FIXED,normal,P1,Tabbed Browser,All,0,ithinc@sohu.com,0,1,0,0,0
+823027,1355888137,350660.0,FIXED,normal,P1,Developer Tools,All,0,past@mozilla.com,0,1,0,0,0
+823095,1355904999,708381.0,FIXED,normal,P1,Bookmarks & History,Mac OS X,0,mconley@mozilla.com,0,1,0,0,0
+823436,1355963860,82682.0,FIXED,normal,P1,Developer Tools: Debugger,Windows 7,0,vporof@mozilla.com,0,1,0,0,0
+823493,1355979208,259602.0,FIXED,normal,P1,Developer Tools: Inspector,All,0,mratcliffe@mozilla.com,0,1,0,0,0
+823580,1355992852,163137.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+823732,1356011403,143900.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+823739,1356012002,785963.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,andres@appcoast.com,0,1,0,0,0
+823998,1356081335,157448.0,FIXED,normal,P1,Developer Tools: Framework,All,0,scrapmachines@gmail.com,0,1,0,0,0
+824240,1356145464,468071.0,FIXED,normal,P1,Downloads Panel,All,0,mano@mozilla.com,0,1,0,0,0
+824345,1356240753,511117.0,FIXED,normal,P1,Downloads Panel,All,0,paolo.mozmail@amadzone.org,0,1,0,0,0
+824480,1356331574,163932.0,FIXED,normal,P1,Tabbed Browser,All,0,ithinc@sohu.com,0,1,0,0,0
+825295,1356691983,189351.0,FIXED,normal,P1,Private Browsing,Mac OS X,0,ehsan@mozilla.com,0,1,0,0,0
+825454,1356781568,16249.0,FIXED,normal,P1,Downloads Panel,All,0,ehsan@mozilla.com,0,1,0,0,0
